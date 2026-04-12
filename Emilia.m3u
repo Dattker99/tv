@@ -1,622 +1,788 @@
-#EXTINF:-1 tvg-id="TVP HD" tvg-name="PL: TVP" tvg-logo="https://docdog.top/logo/countries/poland/tvp.png" group-title="PL | OGÓLNYL VIP",PL: TVP
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/869.m3u8
-#EXTINF:-1 tvg-id="TVP 1" tvg-name="PL: TVP 1" tvg-logo="https://docdog.top/logo/countries/poland/tvp1.png" group-title="PL | OGÓLNYL VIP",PL: TVP 1
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1026.m3u8
-#EXTINF:-1 tvg-id="TVP 2" tvg-name="PL: TVP 2" tvg-logo="https://docdog.top/logo/countries/poland/tvp2.png" group-title="PL | OGÓLNYL VIP",PL: TVP 2
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1027.m3u8
-#EXTINF:-1 tvg-id="TVP 3" tvg-name="PL: TVP 3" tvg-logo="https://docdog.top/logo/countries/poland/tvp3.png" group-title="PL | OGÓLNYL VIP",PL: TVP 3
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1028.m3u8
-#EXTINF:-1 tvg-id="TVP ABC" tvg-name="PL: TVP ABC" tvg-logo="https://docdog.top/logo/countries/poland/tvpabc.png" group-title="PL | OGÓLNYL VIP",PL: TVP ABC
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1029.m3u8
-#EXTINF:-1 tvg-id="TVP Dokument" tvg-name="PL: TVP DOKUMENT" tvg-logo="https://docdog.top/logo/countries/poland/TVP_Dokument.png" group-title="PL | OGÓLNYL VIP",PL: TVP DOKUMENT
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/83025.m3u8
-#EXTINF:-1 tvg-id="TVP Historia" tvg-name="PL: TVP HISTORIA" tvg-logo="https://docdog.top/logo/countries/poland/tvphistoria.png" group-title="PL | OGÓLNYL VIP",PL: TVP HISTORIA
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1031.m3u8
-#EXTINF:-1 tvg-id="TVP Info" tvg-name="PL: TVP INFO" tvg-logo="https://docdog.top/logo/countries/poland/tvpinfo.png" group-title="PL | OGÓLNYL VIP",PL: TVP INFO
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1032.m3u8
-#EXTINF:-1 tvg-id="TVP Kultura" tvg-name="PL: TVP KULTURA" tvg-logo="https://docdog.top/logo/countries/poland/tvpkultura.png" group-title="PL | OGÓLNYL VIP",PL: TVP KULTURA
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1033.m3u8
-#EXTINF:-1 tvg-id="TVP Polonia" tvg-name="PL: TVP POLONIA" tvg-logo="https://docdog.top/logo/countries/poland/tvppolonia.png" group-title="PL | OGÓLNYL VIP",PL: TVP POLONIA
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1034.m3u8
-#EXTINF:-1 tvg-id="TVP Rozrywka" tvg-name="PL: TVP ROZRYWKA" tvg-logo="https://docdog.top/logo/countries/poland/tvprozrywka.png" group-title="PL | OGÓLNYL VIP",PL: TVP ROZRYWKA
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1035.m3u8
-#EXTINF:-1 tvg-id="TVP Sport" tvg-name="PL: TVP SPORT" tvg-logo="https://docdog.top/logo/countries/poland/tvpsport.png" group-title="PL | OGÓLNYL VIP",PL: TVP SPORT
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1030.m3u8
-#EXTINF:-1 tvg-id="TLC" tvg-name="PL: TLC" tvg-logo="https://docdog.top/logo/countries/poland/tlc.png" group-title="PL | OGÓLNYL VIP",PL: TLC
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1008.m3u8
-#EXTINF:-1 tvg-id="TVN" tvg-name="PL: TVN" tvg-logo="https://docdog.top/logo/countries/poland/tvn.png" group-title="PL | OGÓLNYL VIP",PL: TVN
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1019.m3u8
-#EXTINF:-1 tvg-id="TVN 7" tvg-name="PL: TVN 7" tvg-logo="https://docdog.top/logo/countries/poland/tvn7.png" group-title="PL | OGÓLNYL VIP",PL: TVN 7
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1020.m3u8
-#EXTINF:-1 tvg-id="TVN Turbo" tvg-name="PL: TVN TURBO" tvg-logo="https://docdog.top/logo/countries/poland/tvnturbo.png" group-title="PL | OGÓLNYL VIP",PL: TVN TURBO
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1025.m3u8
-#EXTINF:-1 tvg-id="TTV" tvg-name="PL: TTV" tvg-logo="https://docdog.top/logo/countries/poland/ttv.png" group-title="PL | OGÓLNYL VIP",PL: TTV
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1012.m3u8
-#EXTINF:-1 tvg-id="TV 4" tvg-name="PL: TV 4" tvg-logo="https://docdog.top/logo/countries/poland/tv4.png" group-title="PL | OGÓLNYL VIP",PL: TV 4
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1013.m3u8
-#EXTINF:-1 tvg-id="TV 6" tvg-name="PL: TV 6" tvg-logo="https://docdog.top/logo/countries/poland/tv6.png" group-title="PL | OGÓLNYL VIP",PL: TV 6
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1014.m3u8
-#EXTINF:-1 tvg-id="TV Puls" tvg-name="PL: TV PULS" tvg-logo="https://docdog.top/logo/countries/poland/tvplus.png" group-title="PL | OGÓLNYL VIP",PL: TV PULS
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1016.m3u8
-#EXTINF:-1 tvg-id="Puls 2" tvg-name="PL: PULS 2" tvg-logo="https://docdog.top/logo/countries/poland/2plus2.png" group-title="PL | OGÓLNYL VIP",PL: PULS 2
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/982.m3u8
-#EXTINF:-1 tvg-id="TVP 1" tvg-name="PL: TV REPUBLIKA" tvg-logo="https://docdog.top/logo/countries/poland/tvrepublika.png" group-title="PL | OGÓLNYL VIP",PL: TV REPUBLIKA
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1017.m3u8
-#EXTINF:-1 tvg-id="TV TRWAM" tvg-name="PL: TV TRWAM" tvg-logo="https://docdog.top/logo/countries/poland/tvtrwam.png" group-title="PL | OGÓLNYL VIP",PL: TV TRWAM
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1018.m3u8
-#EXTINF:-1 tvg-id="TVS" tvg-name="PL: TVS" tvg-logo="https://docdog.top/logo/countries/poland/tvs.png" group-title="PL | OGÓLNYL VIP",PL: TVS
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1037.m3u8
-#EXTINF:-1 tvg-id="Polsat" tvg-name="PL: POLSAT" tvg-logo="https://docdog.top/logo/countries/poland/polsat1.png" group-title="PL | OGÓLNYL VIP",PL: POLSAT
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/984.m3u8
-#EXTINF:-1 tvg-id="Polsat 2" tvg-name="PL: POLSAT 2" tvg-logo="https://docdog.top/logo/countries/poland/polsat2.png" group-title="PL | OGÓLNYL VIP",PL: POLSAT 2
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/985.m3u8
-#EXTINF:-1 tvg-id="Polsat Café" tvg-name="PL: POLSAT CAFE" tvg-logo="https://docdog.top/logo/countries/poland/polsatcafe.png" group-title="PL | OGÓLNYL VIP",PL: POLSAT CAFE
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/986.m3u8
-#EXTINF:-1 tvg-id="Polsat Play" tvg-name="PL: POLSAT PLAY" tvg-logo="https://docdog.top/logo/countries/poland/polsatplay.png" group-title="PL | OGÓLNYL VIP",PL: POLSAT PLAY
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/992.m3u8
-#EXTINF:-1 tvg-id="Polsat Rodzina" tvg-name="PL: POLSAT RODZINA" tvg-logo="https://docdog.top/logo/countries/poland/polsatrodzina.png" group-title="PL | OGÓLNYL VIP",PL: POLSAT RODZINA
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/994.m3u8
-#EXTINF:-1 tvg-id="Super Polsat" tvg-name="PL: SUPER POLSAT" tvg-logo="https://docdog.top/logo/countries/poland/superpolsat.png" group-title="PL | OGÓLNYL VIP",PL: SUPER POLSAT
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1006.m3u8
-#EXTINF:-1 tvg-id="BBC Brit" tvg-name="PL: BBC BRIT" tvg-logo="https://docdog.top/logo/countries/poland/bbcbrit.png" group-title="PL | OGÓLNYL VIP",PL: BBC BRIT
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/905.m3u8
-#EXTINF:-1 tvg-id="BBC Earth" tvg-name="PL: BBC EARTH" tvg-logo="https://docdog.top/logo/countries/poland/BBC_EARTH.png" group-title="PL | OGÓLNYL VIP",PL: BBC EARTH
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/907.m3u8
-#EXTINF:-1 tvg-id="BBC First" tvg-name="PL: BBC FIRST" tvg-logo="https://docdog.top/logo/countries/poland/bbcfirst.png" group-title="PL | OGÓLNYL VIP",PL: BBC FIRST
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/908.m3u8
-#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="PL: BBC LIFESTYLE" tvg-logo="https://docdog.top/logo/countries/poland/bbclifestyle.png" group-title="PL | OGÓLNYL VIP",PL: BBC LIFESTYLE
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/909.m3u8
-#EXTINF:-1 tvg-id="13 Ulica" tvg-name="PL: 13 ULICA" tvg-logo="https://docdog.top/logo/countries/poland/13ulica.png" group-title="PL | OGÓLNYL VIP",PL: 13 ULICA
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/894.m3u8
-#EXTINF:-1 tvg-id="Ale Kino+" tvg-name="PL: ALE KINO+" tvg-logo="https://docdog.top/logo/countries/poland/alekinoplus.png" group-title="PL | OGÓLNYL VIP",PL: ALE KINO+
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/897.m3u8
-#EXTINF:-1 tvg-id="Active Family" tvg-name="PL: ACTIVE FAMILY" tvg-logo="https://docdog.top/logo/countries/poland/activefamily.png" group-title="PL | OGÓLNYL VIP",PL: ACTIVE FAMILY
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/895.m3u8
-#EXTINF:-1 tvg-id="E! Entertainment" tvg-name="PL: E! ENTERTAINMENT" tvg-logo="https://docdog.top/logo/countries/poland/entertainment.png" group-title="PL | OGÓLNYL VIP",PL: E! ENTERTAINMENT
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/937.m3u8
-#EXTINF:-1 tvg-id="Canal+ Kuchnia" tvg-name="PL: CANAL+ KUCHNIA" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_KUCHNIA.png" group-title="PL | OGÓLNYL VIP",PL: CANAL+ KUCHNIA
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/963.m3u8
-#EXTINF:-1 tvg-id="Nuta TV" tvg-name="PL: NUTA TV" tvg-logo="https://docdog.top/logo/countries/poland/nutatv.png" group-title="PL | OGÓLNYL VIP",PL: NUTA TV
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/979.m3u8
-#EXTINF:-1 tvg-id="METRO" tvg-name="PL: METRO" tvg-logo="https://docdog.top/logo/countries/poland/metro.png" group-title="PL | OGÓLNYL VIP",PL: METRO
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/965.m3u8
-#EXTINF:-1 tvg-id="Stopklatka TV" tvg-name="PL: STOPKLATKA" tvg-logo="https://docdog.top/logo/countries/poland/stopklatka.png" group-title="PL | OGÓLNYL VIP",PL: STOPKLATKA
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1004.m3u8
-#EXTINF:-1 tvg-id="WP" tvg-name="PL: WP" tvg-logo="https://docdog.top/logo/countries/poland/wp.png" group-title="PL | OGÓLNYL VIP",PL: WP
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1040.m3u8
-#EXTINF:-1 tvg-id="ZOOM TV" tvg-name="PL: ZOOM TV" tvg-logo="https://docdog.top/logo/countries/poland/zoomtv.png" group-title="PL | OGÓLNYL VIP",PL: ZOOM TV
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1042.m3u8
-#EXTINF:-1 tvg-id="Sundance TV" tvg-name="PL: SUNDANCE TV" tvg-logo="https://docdog.top/logo/countries/poland/SUNDANCE_TV_HD.png" group-title="PL | OGÓLNYL VIP",PL: SUNDANCE TV
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1005.m3u8
-#EXTINF:-1 tvg-id="ROMANCE TV" tvg-name="PL: ROMANCE TV" tvg-logo="https://docdog.top/logo/countries/poland/romancetv.png" group-title="PL | OGÓLNYL VIP",PL: ROMANCE TV
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1001.m3u8
-#EXTINF:-1 tvg-id="Kino Polska" tvg-name="PL: KINO POLSKA" tvg-logo="https://docdog.top/logo/countries/poland/kinopolskamuzyka.png" group-title="PL | OGÓLNYL VIP",PL: KINO POLSKA
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/960.m3u8
-#EXTINF:-1 tvg-id="Food Network" tvg-name="PL: FOOD NETWORK" tvg-logo="https://docdog.top/logo/countries/poland/foodnetwork.png" group-title="PL | OGÓLNYL VIP",PL: FOOD NETWORK
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/950.m3u8
-#EXTINF:-1 tvg-id="HGTV" tvg-name="PL: HGTV" tvg-logo="https://docdog.top/logo/countries/poland/hgtv.png" group-title="PL | OGÓLNYL VIP",PL: HGTV
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/958.m3u8
-#EXTINF:-1 tvg-id="NOWA TV" tvg-name="PL: NOWA TV" tvg-logo="https://docdog.top/logo/countries/poland/nowatv.png" group-title="PL | OGÓLNYL VIP",PL: NOWA TV
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/978.m3u8
-#EXTINF:-1 tvg-id="Red Carpet TV" tvg-name="PL: RED CARPET TV" tvg-logo="https://docdog.top/logo/countries/poland/redcarpet.png" group-title="PL | OGÓLNYL VIP",PL: RED CARPET TV
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1000.m3u8
-#EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="PL: CANAL+ SPORT" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT.png" group-title="PL | SPORT VIP",PL: CANAL+ SPORT
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/876.m3u8
-#EXTINF:-1 tvg-id="Canal+ Sport 2" tvg-name="PL: CANAL+ SPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_2.png" group-title="PL | SPORT VIP",PL: CANAL+ SPORT 2
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/877.m3u8
-#EXTINF:-1 tvg-id="Canal+ Sport 3" tvg-name="PL: CANAL+ SPORT 3" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_3.png" group-title="PL | SPORT VIP",PL: CANAL+ SPORT 3
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/878.m3u8
-#EXTINF:-1 tvg-id="Canal+ Sport 4" tvg-name="PL: CANAL+ SPORT 4" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_4.png" group-title="PL | SPORT VIP",PL: CANAL+ SPORT 4
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/879.m3u8
-#EXTINF:-1 tvg-id="Canal+ Sport 5" tvg-name="PL: CANAL+ SPORT 5" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_SPORT_5.png" group-title="PL | SPORT VIP",PL: CANAL+ SPORT 5
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/889.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="PL: ELEVEN SPORTS 1" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_1.png" group-title="PL | SPORT VIP",PL: ELEVEN SPORTS 1
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/880.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="PL: ELEVEN SPORTS 2" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_2.png" group-title="PL | SPORT VIP",PL: ELEVEN SPORTS 2
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/881.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="PL: ELEVEN SPORTS 3" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_3.png" group-title="PL | SPORT VIP",PL: ELEVEN SPORTS 3
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/882.m3u8
-#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="PL: ELEVEN SPORTS 4" tvg-logo="https://docdog.top/logo/countries/poland/ELEVEN_SPORTS_4.png" group-title="PL | SPORT VIP",PL: ELEVEN SPORTS 4
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/883.m3u8
-#EXTINF:-1 tvg-id="Polsat Sport" tvg-name="PL: POLSAT SPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/polsatsport.png" group-title="PL | SPORT VIP",PL: POLSAT SPORT 1
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/34309.m3u8
-#EXTINF:-1 tvg-id="Polsat Sport Extra" tvg-name="PL: POLSAT SPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportextra.png" group-title="PL | SPORT VIP",PL: POLSAT SPORT 2
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/886.m3u8
-#EXTINF:-1 tvg-id="Polsat Sport News" tvg-name="PL: POLSAT SPORT 3" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportnews.png" group-title="PL | SPORT VIP",PL: POLSAT SPORT 3
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/887.m3u8
-#EXTINF:-1 tvg-id="Polsat Sport Fight" tvg-name="PL: POLSAT SPORT FIGHT" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportfight.png" group-title="PL | SPORT VIP",PL: POLSAT SPORT FIGHT
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/888.m3u8
-#EXTINF:-1 tvg-id="Polsat Sport Premium 1" tvg-name="PL: POLSAT SPORT PREMIUM 1" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium1.png" group-title="PL | SPORT VIP",PL: POLSAT SPORT PREMIUM 1
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/870.m3u8
-#EXTINF:-1 tvg-id="Polsat Sport Premium 2" tvg-name="PL: POLSAT SPORT PREMIUM 2" tvg-logo="https://docdog.top/logo/countries/poland/polsatsportpremium2.png" group-title="PL | SPORT VIP",PL: POLSAT SPORT PREMIUM 2
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/871.m3u8
-#EXTINF:-1 tvg-id="Polsat Sport Premium 3" tvg-name="PL: POLSAT SPORT EXTRA 3" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_3.png" group-title="PL | SPORT VIP",PL: POLSAT SPORT EXTRA 3
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/872.m3u8
-#EXTINF:-1 tvg-id="Polsat Sport Premium 4" tvg-name="PL: POLSAT SPORT EXTRA 4" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_4.png" group-title="PL | SPORT VIP",PL: POLSAT SPORT EXTRA 4
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/873.m3u8
-#EXTINF:-1 tvg-id="Polsat Sport Premium 5" tvg-name="PL: POLSAT SPORT EXTRA 1" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_1.png" group-title="PL | SPORT VIP",PL: POLSAT SPORT EXTRA 1
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/874.m3u8
-#EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="PL: POLSAT SPORT PEXTRA 2" tvg-logo="https://docdog.top/logo/countries/pl/POLSAT_SPORT_EXTRA_2.png" group-title="PL | SPORT VIP",PL: POLSAT SPORT PEXTRA 2
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/875.m3u8
-#EXTINF:-1 tvg-id="Eurosport" tvg-name="PL: EUROSPORT 1" tvg-logo="https://docdog.top/logo/countries/poland/eurosport1.png" group-title="PL | SPORT VIP",PL: EUROSPORT 1
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/884.m3u8
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="PL: EUROSPORT 2" tvg-logo="https://docdog.top/logo/countries/poland/eurosport2.png" group-title="PL | SPORT VIP",PL: EUROSPORT 2
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/885.m3u8
-#EXTINF:-1 tvg-id="FightBox" tvg-name="PL: FIGHTBOX" tvg-logo="https://docdog.top/logo/countries/poland/fightbox.png" group-title="PL | SPORT VIP",PL: FIGHTBOX
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/942.m3u8
-#EXTINF:-1 tvg-id="Golf Channel" tvg-name="PL: GOLF ZONE" tvg-logo="https://docdog.top/logo/countries/poland/golfchannel.png" group-title="PL | SPORT VIP",PL: GOLF ZONE
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/953.m3u8
-#EXTINF:-1 tvg-id="Motowizja" tvg-name="PL: MOTOWIZJA" tvg-logo="https://docdog.top/logo/countries/poland/motowizja.png" group-title="PL | SPORT VIP",PL: MOTOWIZJA
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/967.m3u8
-#EXTINF:-1 tvg-id="TVN 24" tvg-name="PL: TVN 24" tvg-logo="https://docdog.top/logo/countries/poland/tvn24.png" group-title="PL | AKTUALNOŚCI VIP",PL: TVN 24
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1022.m3u8
-#EXTINF:-1 tvg-id="TVN 24 BiS" tvg-name="PL: TVN 24 BIS" tvg-logo="https://docdog.top/logo/countries/poland/tvn24bis.png" group-title="PL | AKTUALNOŚCI VIP",PL: TVN 24 BIS
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1021.m3u8
-#EXTINF:-1 tvg-id="Polsat News" tvg-name="PL: POLSAT NEWS" tvg-logo="https://docdog.top/logo/countries/poland/polsatnews.png" group-title="PL | AKTUALNOŚCI VIP",PL: POLSAT NEWS
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/990.m3u8
-#EXTINF:-1 tvg-id="POLSAT NEWS 2" tvg-name="PL: POLSAT NEWS 2" tvg-logo="https://docdog.top/logo/countries/poland/polsat_news_2.png" group-title="PL | AKTUALNOŚCI VIP",PL: POLSAT NEWS 2
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/991.m3u8
-#EXTINF:-1 tvg-id="TVN Fabuła" tvg-name="PL: TVN FABULA" tvg-logo="https://docdog.top/logo/countries/poland/tvnfabula.png" group-title="PL | AKTUALNOŚCI VIP",PL: TVN FABULA
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1023.m3u8
-#EXTINF:-1 tvg-id="TVN Style" tvg-name="PL: TVN STYLE" tvg-logo="https://docdog.top/logo/countries/poland/tvnstyle.png" group-title="PL | AKTUALNOŚCI VIP",PL: TVN STYLE
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1024.m3u8
-#EXTINF:-1 tvg-id="Wydarzenia 24" tvg-name="PL: WYDARZENIA 24" tvg-logo="https://docdog.top/logo/countries/poland/Wydarzenia_24.png" group-title="PL | AKTUALNOŚCI VIP",PL: WYDARZENIA 24
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1041.m3u8
-#EXTINF:-1 tvg-id="CBS REALITY" tvg-name="PL: CBS REALITY" tvg-logo="https://docdog.top/logo/countries/poland/cbsreality.png" group-title="PL | AKTUALNOŚCI VIP",PL: CBS REALITY
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/921.m3u8
-#EXTINF:-1 tvg-id="Canal+ 1" tvg-name="PL: CANAL+ 1" tvg-logo="https://docdog.top/logo/countries/poland/canal1.png" group-title="PL | FILM VIP",PL: CANAL+ 1
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/911.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ DOKUMENT" tvg-logo="https://docdog.top/logo/countries/poland/discoverychannel.png" group-title="PL | FILM VIP",PL: CANAL+ DOKUMENT
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/912.m3u8
-#EXTINF:-1 tvg-id="Canal+ Film" tvg-name="PL: CANAL+ FILM" tvg-logo="https://docdog.top/logo/countries/poland/canalfilm.png" group-title="PL | FILM VIP",PL: CANAL+ FILM
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/915.m3u8
-#EXTINF:-1 tvg-id="Canal+ Now" tvg-name="PL: CANAL+ NOW" tvg-logo="https://docdog.top/logo/countries/poland/canal+now.png" group-title="PL | FILM VIP",PL: CANAL+ NOW
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/916.m3u8
-#EXTINF:-1 tvg-id="Canal+ Premium" tvg-name="PL: CANAL+ PREMIUM" tvg-logo="https://docdog.top/logo/countries/poland/canalpremier.png" group-title="PL | FILM VIP",PL: CANAL+ PREMIUM
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/917.m3u8
-#EXTINF:-1 tvg-id="Canal+ Seriale" tvg-name="PL: CANAL+ SERIALE" tvg-logo="https://docdog.top/logo/countries/poland/canalseriale.png" group-title="PL | FILM VIP",PL: CANAL+ SERIALE
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/918.m3u8
-#EXTINF:-1 tvg-id="HBO" tvg-name="PL: HBO" tvg-logo="https://docdog.top/logo/countries/poland/hbo.png" group-title="PL | FILM VIP",PL: HBO
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/955.m3u8
-#EXTINF:-1 tvg-id="HBO 2" tvg-name="PL: HBO 2" tvg-logo="https://docdog.top/logo/countries/poland/hbo2.png" group-title="PL | FILM VIP",PL: HBO 2
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/956.m3u8
-#EXTINF:-1 tvg-id="HBO 3" tvg-name="PL: HBO 3" tvg-logo="https://docdog.top/logo/countries/poland/hbo3.png" group-title="PL | FILM VIP",PL: HBO 3
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/957.m3u8
-#EXTINF:-1 tvg-id="FOX" tvg-name="PL: FOX" tvg-logo="https://docdog.top/logo/countries/poland/fox.png" group-title="PL | FILM VIP",PL: FOX
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/951.m3u8
-#EXTINF:-1 tvg-id="FOX Comedy" tvg-name="PL: FOX COMEDY" tvg-logo="https://docdog.top/logo/countries/poland/foxcomedy.png" group-title="PL | FILM VIP",PL: FOX COMEDY
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/952.m3u8
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="PL: COMEDY CENTRAL" tvg-logo="https://docdog.top/logo/countries/poland/comedycentral.png" group-title="PL | FILM VIP",PL: COMEDY CENTRAL
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/924.m3u8
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="PL: PARAMOUNT NETWORK" tvg-logo="https://docdog.top/logo/countries/poland/paramountchannel.png" group-title="PL | FILM VIP",PL: PARAMOUNT NETWORK
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/980.m3u8
-#EXTINF:-1 tvg-id="Warner TV" tvg-name="PL: WARNER TV" tvg-logo="https://docdog.top/logo/countries/poland/Warner_TV.png" group-title="PL | FILM VIP",PL: WARNER TV
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1009.m3u8
-#EXTINF:-1 tvg-id="SCI FI" tvg-name="PL: SCIFI" tvg-logo="https://docdog.top/logo/countries/poland/scifiuniversal.png" group-title="PL | FILM VIP",PL: SCIFI
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1002.m3u8
-#EXTINF:-1 tvg-id="AMC" tvg-name="PL: AMC" tvg-logo="https://docdog.top/logo/countries/poland/amc.png" group-title="PL | FILM VIP",PL: AMC
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/898.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="PL: AXN" tvg-logo="https://docdog.top/logo/countries/poland/axn.png" group-title="PL | FILM VIP",PL: AXN
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/900.m3u8
-#EXTINF:-1 tvg-id="AXN Black" tvg-name="PL: AXN BLACK" tvg-logo="https://docdog.top/logo/countries/poland/axnblack.png" group-title="PL | FILM VIP",PL: AXN BLACK
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/901.m3u8
-#EXTINF:-1 tvg-id="AXN Spin" tvg-name="PL: AXN SPIN" tvg-logo="https://docdog.top/logo/countries/poland/axnspin.png" group-title="PL | FILM VIP",PL: AXN SPIN
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/902.m3u8
-#EXTINF:-1 tvg-id="AXN White" tvg-name="PL: AXN WHITE" tvg-logo="https://docdog.top/logo/countries/poland/axnwhite.png" group-title="PL | FILM VIP",PL: AXN WHITE
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/903.m3u8
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="PL: CINEMAX" tvg-logo="https://docdog.top/logo/countries/poland/cinemax.png" group-title="PL | FILM VIP",PL: CINEMAX
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/922.m3u8
-#EXTINF:-1 tvg-id="Cinemax 2" tvg-name="PL: CINEMAX 2" tvg-logo="https://docdog.top/logo/countries/poland/cinemax2.png" group-title="PL | FILM VIP",PL: CINEMAX 2
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/923.m3u8
-#EXTINF:-1 tvg-id="TVP Seriale" tvg-name="PL: TVP SERIALE" tvg-logo="https://docdog.top/logo/countries/poland/tvpseriale.png" group-title="PL | FILM VIP",PL: TVP SERIALE
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1036.m3u8
-#EXTINF:-1 tvg-id="FilmBox Action" tvg-name="PL: FILMBOX ACTION" tvg-logo="https://docdog.top/logo/countries/poland/filmboxaction.png" group-title="PL | FILM VIP",PL: FILMBOX ACTION
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/944.m3u8
-#EXTINF:-1 tvg-id="Filmbox Arthouse" tvg-name="PL: FILMBOX ARTHOUSE" tvg-logo="https://docdog.top/logo/countries/poland/filmboxarthouse.png" group-title="PL | FILM VIP",PL: FILMBOX ARTHOUSE
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/945.m3u8
-#EXTINF:-1 tvg-id="Filmbox Extra HD" tvg-name="PL: FILMBOX EXTRA" tvg-logo="https://docdog.top/logo/countries/poland/filmboxextra.png" group-title="PL | FILM VIP",PL: FILMBOX EXTRA
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/946.m3u8
-#EXTINF:-1 tvg-id="Filmbox Family" tvg-name="PL: FILMBOX FAMILY" tvg-logo="https://docdog.top/logo/countries/poland/filmboxfamily.png" group-title="PL | FILM VIP",PL: FILMBOX FAMILY
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/947.m3u8
-#EXTINF:-1 tvg-id="Filmbox Premium HD" tvg-name="PL: FILMBOX PREMIUM" tvg-logo="https://docdog.top/logo/countries/poland/filmboxpremium.png" group-title="PL | FILM VIP",PL: FILMBOX PREMIUM
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/948.m3u8
-#EXTINF:-1 tvg-id="Kino TV" tvg-name="PL: KINO TV" tvg-logo="https://docdog.top/logo/countries/poland/kinotv.png" group-title="PL | FILM VIP",PL: KINO TV
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/962.m3u8
-#EXTINF:-1 tvg-id="Epic Drama" tvg-name="PL: EPIC DRAMA" tvg-logo="https://docdog.top/logo/countries/poland/epicdrama.png" group-title="PL | FILM VIP",PL: EPIC DRAMA
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/938.m3u8
-#EXTINF:-1 tvg-id="Polsat Film" tvg-name="PL: POLSAT FILM" tvg-logo="https://docdog.top/logo/countries/poland/polsatfilm.png" group-title="PL | FILM VIP",PL: POLSAT FILM
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/987.m3u8
-#EXTINF:-1 tvg-id="National Geographic Channel" tvg-name="PL: NATIONAL GEO" tvg-logo="https://docdog.top/logo/countries/poland/natgeo.png" group-title="PL | DOKUMENTALNE VIP",PL: NATIONAL GEO
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/972.m3u8
-#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="PL: NATIONAL GEOGRAPHIC WILD" tvg-logo="https://docdog.top/logo/countries/poland/natgeowild.png" group-title="PL | DOKUMENTALNE VIP",PL: NATIONAL GEOGRAPHIC WILD
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/974.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="PL: DISCOVERY CHANNEL" tvg-logo="https://docdog.top/logo/countries/poland/discoverychannel.png" group-title="PL | DOKUMENTALNE VIP",PL: DISCOVERY CHANNEL
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/928.m3u8
-#EXTINF:-1 tvg-id="Discovery Historia" tvg-name="PL: DISCOVERY HISTORIA" tvg-logo="https://docdog.top/logo/countries/poland/discoveryhistoria.png" group-title="PL | DOKUMENTALNE VIP",PL: DISCOVERY HISTORIA
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/929.m3u8
-#EXTINF:-1 tvg-id="Discovery Life" tvg-name="PL: DISCOVERY LIFE" tvg-logo="https://docdog.top/logo/countries/poland/discoverylife.png" group-title="PL | DOKUMENTALNE VIP",PL: DISCOVERY LIFE
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/931.m3u8
-#EXTINF:-1 tvg-id="Discovery Science" tvg-name="PL: DISCOVERY SCIENCE" tvg-logo="https://docdog.top/logo/countries/poland/discoveryscience.png" group-title="PL | DOKUMENTALNE VIP",PL: DISCOVERY SCIENCE
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/932.m3u8
-#EXTINF:-1 tvg-id="POLSAT Viasat Explore" tvg-name="PL: POLSAT VIASAT EXPLORE" tvg-logo="https://docdog.top/logo/countries/poland/polsatviasatexplore.png" group-title="PL | DOKUMENTALNE VIP",PL: POLSAT VIASAT EXPLORE
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/996.m3u8
-#EXTINF:-1 tvg-id="Polsat Viasat History" tvg-name="PL: POLSAT VIASAT HISTORY" tvg-logo="https://docdog.top/logo/countries/poland/polsatviasathistory.png" group-title="PL | DOKUMENTALNE VIP",PL: POLSAT VIASAT HISTORY
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/997.m3u8
-#EXTINF:-1 tvg-id="Polsat Viasat Nature" tvg-name="PL: POLSAT VIASAT NATURE" tvg-logo="https://docdog.top/logo/countries/poland/polsatviasatnature.png" group-title="PL | DOKUMENTALNE VIP",PL: POLSAT VIASAT NATURE
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/998.m3u8
-#EXTINF:-1 tvg-id="Planete+" tvg-name="PL: PLANETE+" tvg-logo="https://docdog.top/logo/countries/poland/planete.png" group-title="PL | DOKUMENTALNE VIP",PL: PLANETE+
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/981.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT CRIME+ INVESTIGATION" tvg-logo="https://docdog.top/logo/countries/poland/crimeinvestigation.png" group-title="PL | DOKUMENTALNE VIP",PL: POLSAT CRIME+ INVESTIGATION
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/926.m3u8
-#EXTINF:-1 tvg-id="Travel Channel" tvg-name="PL: TRAVEL CHANNEL" tvg-logo="https://docdog.top/logo/countries/poland/travelchannel.png" group-title="PL | DOKUMENTALNE VIP",PL: TRAVEL CHANNEL
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1011.m3u8
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="PL: ANIMAL PLANET" tvg-logo="https://docdog.top/logo/countries/poland/animalplanet.png" group-title="PL | DOKUMENTALNE VIP",PL: ANIMAL PLANET
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/899.m3u8
-#EXTINF:-1 tvg-id="Adventure" tvg-name="PL: ADVENTURE" tvg-logo="https://docdog.top/logo/countries/poland/adventure.png" group-title="PL | DOKUMENTALNE VIP",PL: ADVENTURE
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/896.m3u8
-#EXTINF:-1 tvg-id="History 2" tvg-name="PL: HISTORY 2" tvg-logo="https://docdog.top/logo/countries/poland/h2.png" group-title="PL | DOKUMENTALNE VIP",PL: HISTORY 2
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/954.m3u8
-#EXTINF:-1 tvg-id="HISTORY" tvg-name="PL: HISTORY" tvg-logo="https://docdog.top/logo/countries/poland/historychannel.png" group-title="PL | DOKUMENTALNE VIP",PL: HISTORY
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/959.m3u8
-#EXTINF:-1 tvg-id="Fokus TV" tvg-name="PL: FOKUS TV" tvg-logo="https://docdog.top/logo/countries/poland/fokustv.png" group-title="PL | DOKUMENTALNE VIP",PL: FOKUS TV
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/949.m3u8
-#EXTINF:-1 tvg-id="Nick Jr." tvg-name="PL: NICK JR" tvg-logo="https://docdog.top/logo/countries/poland/nickjr.png" group-title="PL | DZIECI VIP",PL: NICK JR
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/975.m3u8
-#EXTINF:-1 tvg-id="Baby TV" tvg-name="PL: BABY TV" tvg-logo="https://docdog.top/logo/countries/poland/babytv.png" group-title="PL | DZIECI VIP",PL: BABY TV
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/904.m3u8
-#EXTINF:-1 tvg-id="BBC CBeebies" tvg-name="PL: BBC CBEEBIES" tvg-logo="https://docdog.top/logo/countries/poland/bbccbeebies.png" group-title="PL | DZIECI VIP",PL: BBC CBEEBIES
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/906.m3u8
-#EXTINF:-1 tvg-id="Canal+ Domo" tvg-name="PL: CANAL+ DOMO" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_DOMO.png" group-title="PL | DZIECI VIP",PL: CANAL+ DOMO
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/913.m3u8
-#EXTINF:-1 tvg-id="Da Vinci Learning" tvg-name="PL: DAVINCI LEARNING" tvg-logo="https://docdog.top/logo/countries/poland/davincilearning.png" group-title="PL | DZIECI VIP",PL: DAVINCI LEARNING
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/927.m3u8
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="PL: DISNEY CHANNEL" tvg-logo="https://docdog.top/logo/countries/poland/disneychannel.png" group-title="PL | DZIECI VIP",PL: DISNEY CHANNEL
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/934.m3u8
-#EXTINF:-1 tvg-id="Disney Junior" tvg-name="PL: DISNEY JUNIOR" tvg-logo="https://docdog.top/logo/countries/poland/disneyjr.png" group-title="PL | DZIECI VIP",PL: DISNEY JUNIOR
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/935.m3u8
-#EXTINF:-1 tvg-id="Disney XD" tvg-name="PL: DISNEY XD" tvg-logo="https://docdog.top/logo/countries/poland/disneyxd.png" group-title="PL | DZIECI VIP",PL: DISNEY XD
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/936.m3u8
-#EXTINF:-1 tvg-id="Minimini+" tvg-name="PL: MINIMINI+" tvg-logo="https://docdog.top/logo/countries/poland/minimini.png" group-title="PL | DZIECI VIP",PL: MINIMINI+
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/966.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="PL: NICKELODEON" tvg-logo="https://docdog.top/logo/countries/poland/nickelodeon.png" group-title="PL | DZIECI VIP",PL: NICKELODEON
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/976.m3u8
-#EXTINF:-1 tvg-id="Nicktoons" tvg-name="PL: NICKTOONS" tvg-logo="https://docdog.top/logo/countries/poland/nicktoons.png" group-title="PL | DZIECI VIP",PL: NICKTOONS
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/977.m3u8
-#EXTINF:-1 tvg-id="Teletoon" tvg-name="PL: TELETOON+" tvg-logo="https://docdog.top/logo/countries/poland/teletoon.png" group-title="PL | DZIECI VIP",PL: TELETOON+
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1007.m3u8
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="PL: CARTOON NETWORK" tvg-logo="https://docdog.top/logo/countries/poland/cartoonnetwork.png" group-title="PL | DZIECI VIP",PL: CARTOON NETWORK
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1043.m3u8
-#EXTINF:-1 tvg-id="Polsat Games" tvg-name="PL: POLSAT GAMES" tvg-logo="https://docdog.top/logo/countries/poland/polsatmusic.png" group-title="PL | DZIECI VIP",PL: POLSAT GAMES
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/988.m3u8
-#EXTINF:-1 tvg-id="Polsat JimJam" tvg-name="PL: POLSAT JIM JAM" tvg-logo="https://docdog.top/logo/countries/poland/polsatjimjam.png" group-title="PL | DZIECI VIP",PL: POLSAT JIM JAM
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/989.m3u8
-#EXTINF:-1 tvg-id="4FUN TV" tvg-name="PL: 4FUN.TV" tvg-logo="https://docdog.top/logo/countries/poland/4funtv.png" group-title="PL | MUZYKA VIP",PL: 4FUN.TV
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/893.m3u8
-#EXTINF:-1 tvg-id="4FUN DANCE" tvg-name="PL: 4FUN DANCE" tvg-logo="https://docdog.top/logo/countries/poland/4fundance.png" group-title="PL | MUZYKA VIP",PL: 4FUN DANCE
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/890.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: MTV 90S" tvg-logo="https://docdog.top/logo/countries/poland/mtv.png" group-title="PL | MUZYKA VIP",PL: MTV 90S
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/968.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: MTV DANCE" tvg-logo="https://docdog.top/logo/countries/poland/mtvdance.png" group-title="PL | MUZYKA VIP",PL: MTV DANCE
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/969.m3u8
-#EXTINF:-1 tvg-id="MTV Live HD" tvg-name="PL: MTV LIVE" tvg-logo="https://docdog.top/logo/countries/poland/mtvlive.png" group-title="PL | MUZYKA VIP",PL: MTV LIVE
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/970.m3u8
-#EXTINF:-1 tvg-id="MTV Polska" tvg-name="PL: MTV POLSKA" tvg-logo="https://docdog.top/logo/countries/poland/mtvpolska.png" group-title="PL | MUZYKA VIP",PL: MTV POLSKA
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/971.m3u8
-#EXTINF:-1 tvg-id="Polsat Music" tvg-name="PL: POLSAT MUSIC" tvg-logo="https://docdog.top/logo/countries/poland/polsatmusic.png" group-title="PL | MUZYKA VIP",PL: POLSAT MUSIC
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/993.m3u8
-#EXTINF:-1 tvg-id="Kino Polska Muzyka" tvg-name="PL: KINO POLSKA MUZYKA" tvg-logo="https://docdog.top/logo/countries/poland/kinopolskamuzyka.png" group-title="PL | MUZYKA VIP",PL: KINO POLSKA MUZYKA
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/961.m3u8
-#EXTINF:-1 tvg-id="Disco Polo Music" tvg-name="PL: DISCO POLO MUSIC" tvg-logo="https://docdog.top/logo/countries/poland/discopolomusic.png" group-title="PL | MUZYKA VIP",PL: DISCO POLO MUSIC
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1044.m3u8
-#EXTINF:-1 tvg-id="Eska TV Extra" tvg-name="PL: ESKA EXTRA" tvg-logo="https://docdog.top/logo/countries/poland/eskatvextra.png" group-title="PL | MUZYKA VIP",PL: ESKA EXTRA
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/939.m3u8
-#EXTINF:-1 tvg-id="Eska Rock TV" tvg-name="PL: ESKA ROCK TV" tvg-logo="https://docdog.top/logo/countries/poland/eskarocktv.png" group-title="PL | MUZYKA VIP",PL: ESKA ROCK TV
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/940.m3u8
-#EXTINF:-1 tvg-id="Eska TV" tvg-name="PL: ESKA TV" tvg-logo="https://docdog.top/logo/countries/poland/eskatv.png" group-title="PL | MUZYKA VIP",PL: ESKA TV
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/941.m3u8
-#EXTINF:-1 tvg-id="Polo TV" tvg-name="PL: POLO TV" tvg-logo="https://docdog.top/logo/countries/poland/polotv.png" group-title="PL | MUZYKA VIP",PL: POLO TV
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/983.m3u8
-#EXTINF:-1 tvg-id="POWER TV" tvg-name="PL: POWER TV" tvg-logo="https://docdog.top/logo/countries/poland/powertv.png" group-title="PL | MUZYKA VIP",PL: POWER TV
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/999.m3u8
-#EXTINF:-1 tvg-id="Stars TV" tvg-name="PL: STARS TV" tvg-logo="https://docdog.top/logo/countries/poland/starstv.png" group-title="PL | MUZYKA VIP",PL: STARS TV
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1003.m3u8
-#EXTINF:-1 tvg-id="Vox Music TV" tvg-name="PL: VOX MUSIC TV" tvg-logo="https://docdog.top/logo/countries/poland/voxmusictv.png" group-title="PL | MUZYKA VIP",PL: VOX MUSIC TV
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1045.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: MTV 00S" tvg-logo="https://docdog.top/logo/countries/poland/vh1.png" group-title="PL | MUZYKA VIP",PL: MTV 00S
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/1038.m3u8
-#EXTINF:-1 tvg-id="Polsat Doku" tvg-name="PL: POLSAT DOKU" tvg-logo="https://docdog.top/logo/countries/poland/polsat_doku.png" group-title="PL | DOKUMENTALNE VIP",PL: POLSAT DOKU
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/99472.m3u8
-#EXTINF:-1 tvg-id="Novelas+" tvg-name="PL: NOVELAS+" tvg-logo="https://docdog.top/logo/countries/poland/NOVELAS.png" group-title="PL | FILM VIP",PL: NOVELAS+
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/115036.m3u8
-#EXTINF:-1 tvg-id="wPolsce.pl" tvg-name="PL: WPOLSCE 24" tvg-logo="" group-title="PL | AKTUALNOŚCI VIP",PL: WPOLSCE 24
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/125460.m3u8
-#EXTINF:-1 tvg-id="Extreme Sports Channel" tvg-name="PL: EXTREME SPORTS" tvg-logo="https://docdog.top/logo/countries/poland/EXTREME_SPORTS_HD.png" group-title="PL | SPORT VIP",PL: EXTREME SPORTS
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/128952.m3u8
-#EXTINF:-1 tvg-id="Canal+ Extra 1" tvg-name="PL: CANAL+ EXTRA 1" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_1_HD.png" group-title="PL | CANAL+ EXTRA",PL: CANAL+ EXTRA 1
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/128981.m3u8
-#EXTINF:-1 tvg-id="Canal+ Extra 2" tvg-name="PL: CANAL+ EXTRA 2" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_2_HD.png" group-title="PL | CANAL+ EXTRA",PL: CANAL+ EXTRA 2
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/128982.m3u8
-#EXTINF:-1 tvg-id="Canal+ Extra 3" tvg-name="PL: CANAL+ EXTRA 3" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_3_HD.png" group-title="PL | CANAL+ EXTRA",PL: CANAL+ EXTRA 3
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/128983.m3u8
-#EXTINF:-1 tvg-id="Canal+ Extra 4" tvg-name="PL: CANAL+ EXTRA 4" tvg-logo="https://docdog.top/logo/countries/poland/CANAL_EXTRA_4_HD.png" group-title="PL | CANAL+ EXTRA",PL: CANAL+ EXTRA 4
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/128984.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ 360" tvg-logo="https://docdog.top/logo/countries/poland/canal+360.png" group-title="PL | SPORT VIP",PL: CANAL+ 360
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/132374.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: 4FUN KIDS" tvg-logo="https://docdog.top/logo/countries/poland/4FUN_KIDS.png" group-title="PL | Categorizing",PL: 4FUN KIDS
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134620.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: ANTENA" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: ANTENA
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134621.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: BIZNES 24" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: BIZNES 24
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134622.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ EXTRA 5 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/poland/CExtra5.png" group-title="PL | CANAL+ EXTRA",PL: CANAL+ EXTRA 5 (ONLY EVENT TIME)
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134632.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ EXTRA 6 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/poland/CExtra6.png" group-title="PL | CANAL+ EXTRA",PL: CANAL+ EXTRA 6 (ONLY EVENT TIME)
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134633.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ EXTRA 7 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/poland/CExtra7.png" group-title="PL | CANAL+ EXTRA",PL: CANAL+ EXTRA 7 (ONLY EVENT TIME)
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134634.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ EXTRA 8 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/poland/CExtra8.png" group-title="PL | CANAL+ EXTRA",PL: CANAL+ EXTRA 8 (ONLY EVENT TIME)
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134635.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ EXTRA 9 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/poland/CExtra9.png" group-title="PL | CANAL+ EXTRA",PL: CANAL+ EXTRA 9 (ONLY EVENT TIME)
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134636.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ EXTRA 10 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/poland/CExtra10.png" group-title="PL | CANAL+ EXTRA",PL: CANAL+ EXTRA 10 (ONLY EVENT TIME)
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134623.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ EXTRA 11 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/poland/CExtra11.png" group-title="PL | CANAL+ EXTRA",PL: CANAL+ EXTRA 11 (ONLY EVENT TIME)
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134624.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ EXTRA 12 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/poland/CExtra12.png" group-title="PL | CANAL+ EXTRA",PL: CANAL+ EXTRA 12 (ONLY EVENT TIME)
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134625.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ EXTRA 13 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/poland/CExtra13.png" group-title="PL | CANAL+ EXTRA",PL: CANAL+ EXTRA 13 (ONLY EVENT TIME)
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134626.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ EXTRA 14 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/poland/CExtra14.png" group-title="PL | CANAL+ EXTRA",PL: CANAL+ EXTRA 14 (ONLY EVENT TIME)
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134627.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ EXTRA 15 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/poland/CExtra15.png" group-title="PL | CANAL+ EXTRA",PL: CANAL+ EXTRA 15 (ONLY EVENT TIME)
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134628.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ EXTRA 16 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/poland/CExtra16.png" group-title="PL | CANAL+ EXTRA",PL: CANAL+ EXTRA 16 (ONLY EVENT TIME)
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134629.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ EXTRA 17 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/poland/CExtra17.png" group-title="PL | CANAL+ EXTRA",PL: CANAL+ EXTRA 17 (ONLY EVENT TIME)
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134630.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ EXTRA 18 (ONLY EVENT TIME)" tvg-logo="https://docdog.top/logo/countries/poland/CExtra18.png" group-title="PL | CANAL+ EXTRA",PL: CANAL+ EXTRA 18 (ONLY EVENT TIME)
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134631.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: CARTOONITO" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: CARTOONITO
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134637.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: CI POLSAT" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: CI POLSAT
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134638.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: DA VINCI" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: DA VINCI
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134639.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: DAZN EVENT 1" tvg-logo="https://docdog.top/logo/countries/poland/dazn.png" group-title="PL | Categorizing",PL: DAZN EVENT 1
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134640.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: DAZN EVENT 2" tvg-logo="https://docdog.top/logo/countries/poland/dazn.png" group-title="PL | Categorizing",PL: DAZN EVENT 2
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134651.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: DAZN EVENT 3" tvg-logo="https://docdog.top/logo/countries/poland/dazn.png" group-title="PL | Categorizing",PL: DAZN EVENT 3
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134653.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: DAZN EVENT 4" tvg-logo="https://docdog.top/logo/countries/poland/dazn.png" group-title="PL | Categorizing",PL: DAZN EVENT 4
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134654.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: DAZN EVENT 5" tvg-logo="https://docdog.top/logo/countries/poland/dazn.png" group-title="PL | Categorizing",PL: DAZN EVENT 5
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134655.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: DAZN EVENT 6" tvg-logo="https://docdog.top/logo/countries/poland/dazn.png" group-title="PL | Categorizing",PL: DAZN EVENT 6
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134656.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: DAZN EVENT 7" tvg-logo="https://docdog.top/logo/countries/poland/dazn.png" group-title="PL | Categorizing",PL: DAZN EVENT 7
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134657.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: DAZN EVENT 8" tvg-logo="https://docdog.top/logo/countries/poland/dazn.png" group-title="PL | Categorizing",PL: DAZN EVENT 8
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134658.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: DAZN EVENT 9" tvg-logo="https://docdog.top/logo/countries/poland/dazn.png" group-title="PL | Categorizing",PL: DAZN EVENT 9
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134659.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: DAZN EVENT 10" tvg-logo="https://docdog.top/logo/countries/poland/dazn.png" group-title="PL | Categorizing",PL: DAZN EVENT 10
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134641.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: DAZN EVENT 11" tvg-logo="https://docdog.top/logo/countries/poland/dazn.png" group-title="PL | Categorizing",PL: DAZN EVENT 11
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134642.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: DAZN EVENT 12" tvg-logo="https://docdog.top/logo/countries/poland/dazn.png" group-title="PL | Categorizing",PL: DAZN EVENT 12
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134643.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: DAZN EVENT 13" tvg-logo="https://docdog.top/logo/countries/poland/dazn.png" group-title="PL | Categorizing",PL: DAZN EVENT 13
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134644.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: DAZN EVENT 14" tvg-logo="https://docdog.top/logo/countries/poland/dazn.png" group-title="PL | Categorizing",PL: DAZN EVENT 14
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134645.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: DAZN EVENT 15" tvg-logo="https://docdog.top/logo/countries/poland/dazn.png" group-title="PL | Categorizing",PL: DAZN EVENT 15
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134646.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: DAZN EVENT 16" tvg-logo="https://docdog.top/logo/countries/poland/dazn.png" group-title="PL | Categorizing",PL: DAZN EVENT 16
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134647.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: DAZN EVENT 17" tvg-logo="https://docdog.top/logo/countries/poland/dazn.png" group-title="PL | Categorizing",PL: DAZN EVENT 17
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134648.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: DAZN EVENT 18" tvg-logo="https://docdog.top/logo/countries/poland/dazn.png" group-title="PL | Categorizing",PL: DAZN EVENT 18
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134649.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: DAZN EVENT 19" tvg-logo="https://docdog.top/logo/countries/poland/dazn.png" group-title="PL | Categorizing",PL: DAZN EVENT 19
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134650.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: DAZN EVENT 20" tvg-logo="https://docdog.top/logo/countries/poland/dazn.png" group-title="PL | Categorizing",PL: DAZN EVENT 20
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134652.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: DISCOVERY" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: DISCOVERY
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134660.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: ESKA TV EXTRA" tvg-logo="https://docdog.top/logo/countries/poland/eskatv.png" group-title="PL | Categorizing",PL: ESKA TV EXTRA
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134661.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: FIGHTKLUB" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: FIGHTKLUB
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134662.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: FILM CAFE" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: FILM CAFE
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134663.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO SPORTS EPG" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | Categorizing",PL: HBO SPORTS EPG
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134664.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 01" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 01
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134665.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 02" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 02
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134666.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 03" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 03
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134667.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 04" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 04
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134668.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 05" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 05
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134669.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 06" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 06
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134670.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 07" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 07
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134671.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 08" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 08
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134672.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 09" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 09
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134673.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 10" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 10
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134674.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 11" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 11
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134675.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 12" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 12
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134676.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 13" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 13
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134677.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 14" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 14
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134678.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 15" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 15
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134679.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 16" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 16
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134680.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 17" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 17
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134681.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 18" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 18
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134682.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 19" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 19
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134683.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 20" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 20
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134684.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 21" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 21
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134685.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 22" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 22
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134686.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 23" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 23
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134687.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 24" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 24
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134688.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 25" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 25
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134689.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 26" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 26
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134690.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 27" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 27
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134691.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 28" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 28
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134692.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 29" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 29
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134693.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HBO LIVE 30" tvg-logo="https://docdog.top/logo/countries/poland/HBO_MAX.png" group-title="PL | HBO SPORTS LIVE",PL: HBO LIVE 30
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134694.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HISTORIA" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: HISTORIA
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134695.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: HOME TV" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: HOME TV
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134696.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: ID POLAND" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: ID POLAND
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134697.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: ITVN" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: ITVN
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134698.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: NAT GEO PEOPLE" tvg-logo="https://docdog.top/logo/countries/poland/natgeopeople.png" group-title="PL | Categorizing",PL: NAT GEO PEOPLE
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134699.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: NICK MUSIC" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: NICK MUSIC
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134700.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: NOVELA TV" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: NOVELA TV
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134701.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: NUTA GOLD" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: NUTA GOLD
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134702.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLONIA 1" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: POLONIA 1
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134703.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT COMEDY CENTRAL EXTRA" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: POLSAT COMEDY CENTRAL EXTRA
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134704.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT NEWS POLITYKA" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: POLSAT NEWS POLITYKA
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134705.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT REALITY" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: POLSAT REALITY
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134706.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SERIALE" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: POLSAT SERIALE
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134707.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT X" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: POLSAT X
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134708.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: SCIENCE" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: SCIENCE
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134709.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: SKYSHOWTIME 1" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: SKYSHOWTIME 1
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134710.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: SKYSHOWTIME 2" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: SKYSHOWTIME 2
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134711.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: SPORTKLUB" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: SPORTKLUB
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134712.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: STUDIOMED TV" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: STUDIOMED TV
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134713.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: SZLAGIER TV" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: SZLAGIER TV
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134714.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: TEENNICK" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: TEENNICK
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134715.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: TELE 5" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: TELE 5
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134716.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: TURBO XTRA POLAND" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: TURBO XTRA POLAND
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134717.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: TV OKAZJE" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: TV OKAZJE
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134718.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVC" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: TVC
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134721.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVC SUPER" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: TVC SUPER
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134722.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVN24 BIS" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: TVN24 BIS
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134723.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVP 3 KATOWICE" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: TVP 3 KATOWICE
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134724.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVP KOBIETA" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: TVP KOBIETA
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134725.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: TVT ZGORZELEC" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: TVT ZGORZELEC
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134726.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY EVENT 1" tvg-logo="https://docdog.top/logo/countries/poland/VIAPLAY.png" group-title="PL | VIAPLAY EVENTS",PL: VIAPLAY EVENT 1
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134727.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY EVENT 2" tvg-logo="https://docdog.top/logo/countries/poland/VIAPLAY.png" group-title="PL | VIAPLAY EVENTS",PL: VIAPLAY EVENT 2
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134738.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY EVENT 3" tvg-logo="https://docdog.top/logo/countries/poland/VIAPLAY.png" group-title="PL | VIAPLAY EVENTS",PL: VIAPLAY EVENT 3
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134740.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY EVENT 4" tvg-logo="https://docdog.top/logo/countries/poland/VIAPLAY.png" group-title="PL | VIAPLAY EVENTS",PL: VIAPLAY EVENT 4
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134741.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY EVENT 5" tvg-logo="https://docdog.top/logo/countries/poland/VIAPLAY.png" group-title="PL | VIAPLAY EVENTS",PL: VIAPLAY EVENT 5
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134742.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY EVENT 6" tvg-logo="https://docdog.top/logo/countries/poland/VIAPLAY.png" group-title="PL | VIAPLAY EVENTS",PL: VIAPLAY EVENT 6
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134743.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY EVENT 7" tvg-logo="https://docdog.top/logo/countries/poland/VIAPLAY.png" group-title="PL | VIAPLAY EVENTS",PL: VIAPLAY EVENT 7
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134744.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY EVENT 8" tvg-logo="https://docdog.top/logo/countries/poland/VIAPLAY.png" group-title="PL | VIAPLAY EVENTS",PL: VIAPLAY EVENT 8
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134745.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY EVENT 9" tvg-logo="https://docdog.top/logo/countries/poland/VIAPLAY.png" group-title="PL | VIAPLAY EVENTS",PL: VIAPLAY EVENT 9
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134746.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY EVENT 10" tvg-logo="https://docdog.top/logo/countries/poland/VIAPLAY.png" group-title="PL | VIAPLAY EVENTS",PL: VIAPLAY EVENT 10
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134728.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY EVENT 11" tvg-logo="https://docdog.top/logo/countries/poland/VIAPLAY.png" group-title="PL | VIAPLAY EVENTS",PL: VIAPLAY EVENT 11
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134729.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY EVENT 12" tvg-logo="https://docdog.top/logo/countries/poland/VIAPLAY.png" group-title="PL | VIAPLAY EVENTS",PL: VIAPLAY EVENT 12
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134730.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY EVENT 13" tvg-logo="https://docdog.top/logo/countries/poland/VIAPLAY.png" group-title="PL | VIAPLAY EVENTS",PL: VIAPLAY EVENT 13
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134731.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY EVENT 14" tvg-logo="https://docdog.top/logo/countries/poland/VIAPLAY.png" group-title="PL | VIAPLAY EVENTS",PL: VIAPLAY EVENT 14
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134732.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY EVENT 15" tvg-logo="https://docdog.top/logo/countries/poland/VIAPLAY.png" group-title="PL | VIAPLAY EVENTS",PL: VIAPLAY EVENT 15
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134733.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY EVENT 16" tvg-logo="https://docdog.top/logo/countries/poland/VIAPLAY.png" group-title="PL | VIAPLAY EVENTS",PL: VIAPLAY EVENT 16
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134734.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY EVENT 17" tvg-logo="https://docdog.top/logo/countries/poland/VIAPLAY.png" group-title="PL | VIAPLAY EVENTS",PL: VIAPLAY EVENT 17
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134735.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY EVENT 18" tvg-logo="https://docdog.top/logo/countries/poland/VIAPLAY.png" group-title="PL | VIAPLAY EVENTS",PL: VIAPLAY EVENT 18
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134736.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY EVENT 19" tvg-logo="https://docdog.top/logo/countries/poland/VIAPLAY.png" group-title="PL | VIAPLAY EVENTS",PL: VIAPLAY EVENT 19
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134737.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY EVENT 20" tvg-logo="https://docdog.top/logo/countries/poland/VIAPLAY.png" group-title="PL | VIAPLAY EVENTS",PL: VIAPLAY EVENT 20
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134739.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIASAT KINO" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: VIASAT KINO
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134747.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIASAT TRUE CRIME" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: VIASAT TRUE CRIME
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134748.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VIDOCTV" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: VIDOCTV
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134749.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VOD 202" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: VOD 202
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134750.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VOD 203" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: VOD 203
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134751.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VOD 204" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: VOD 204
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134752.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VOD 205" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: VOD 205
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134753.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VOD 206" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: VOD 206
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134754.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VOD 207" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: VOD 207
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134755.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: VOD 208" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: VOD 208
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134756.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: WATER PLANET" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: WATER PLANET
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134757.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: WIELKOPOLSKA TV" tvg-logo="https://docdog.top/logo/countries/poland/" group-title="PL | Categorizing",PL: WIELKOPOLSKA TV
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/134758.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PL: FAME MMA " tvg-logo="" group-title="PL | PPV LIVE",PL: FAME MMA 
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/147084.m3u8
-#EXTINF:-1 tvg-id="TVP 1" tvg-name="PL: DISCOVERY INVESTIGATION" tvg-logo="https://docdog.top/logo/countries/latino/discoveryinvestigation.png" group-title="PL | DOKUMENTALNE VIP",PL: DISCOVERY INVESTIGATION
-http://atefzpwca.top:8080/live/VIP015169227122712/1e1a2166b463/148668.m3u8
+#EXTINF:-1 tvg-id="Adventure" tvg-name="PL: ADVENTURE FHD" tvg-logo="http://foviptv.link:8080/poland-logo/adventure_pl_hd.png" group-title="Poland",PL: ADVENTURE FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/309845.ts
+#EXTINF:-1 tvg-id="TVN 24 BiS" tvg-name="PL: TVN 24 BIS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/TVN_BIS_logo.jpg" group-title="Poland",PL: TVN 24 BIS FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/310003.ts
+#EXTINF:-1 tvg-id="tvn24.pl" tvg-name="PL: TVN 24 FHD" tvg-logo="http://foviptv.link:8080/poland-logo/tvn_24.png" group-title="Poland",PL: TVN 24 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/310004.ts
+#EXTINF:-1 tvg-id="tvp1.pl" tvg-name="PL: TVP 1 FHD" tvg-logo="http://foviptv.link:8080/poland-logo/tvp1.png" group-title="Poland",PL: TVP 1 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/310011.ts
+#EXTINF:-1 tvg-id="" tvg-name="PPV| MotoGP: Heli Cam" tvg-logo="https://lo1.in/it/mtgp.png" group-title="SVIP MotoGP PPV",PPV| MotoGP: Heli Cam
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/609059.ts
+#EXTINF:-1 tvg-id="4FUN DANCE" tvg-name="PL: 4 FUN DANCE SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSuE2c74Xs7T2th-wI0N4VykJFsDZPoQsJNw&s" group-title="Poland",PL: 4 FUN DANCE SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/749220.ts
+#EXTINF:-1 tvg-id="bbccbeebies.pl" tvg-name="PL: BBC CBEEBIES SD" tvg-logo="http://foviptv.link:8080/poland-logo/bbc_cbeebies_uk.png" group-title="Poland",PL: BBC CBEEBIES SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/749246.ts
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="PL: DISCOVERY CHANNEL FHD" tvg-logo="https://imgx.fubo.tv/station_logos/investigation-discovery_c.png" group-title="Poland",PL: DISCOVERY CHANNEL FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/749316.ts
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="PL: DISNEY XD SD" tvg-logo="https://static.epg.best/fi/DisneyXD.fi.png" group-title="Poland",PL: DISNEY XD SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/749320.ts
+#EXTINF:-1 tvg-id="eurosport1.pl" tvg-name="PL: EUROSPORT 1 FHD" tvg-logo="http://foviptv.link:8080/poland-logo/eurosport_fr_1.png" group-title="Poland",PL: EUROSPORT 1 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/749344.ts
+#EXTINF:-1 tvg-id="Filmbox Family" tvg-name="PL: FILMBOX FAMILY SD" tvg-logo="http://zenplay.club:80/images/a331cf7aefce9ddfb963a63f8826fbe4.png" group-title="Poland",PL: FILMBOX FAMILY SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/749361.ts
+#EXTINF:-1 tvg-id="Kino Polska Muzyka" tvg-name="PL: KINO POLSKA MUZYKA SD" tvg-logo="http://foviptv.link:8080/poland-logo/kino_polska_muzyka.png" group-title="Poland",PL: KINO POLSKA MUZYKA SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/749391.ts
+#EXTINF:-1 tvg-id="Kino TV" tvg-name="PL: KINO TV FHD" tvg-logo="http://foviptv.link:8080/poland-logo/kino-tv-pl.png" group-title="Poland",PL: KINO TV FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/749393.ts
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="PL: NICKELODEON SD" tvg-logo="https://raphmx00.com/nickelodeon.png" group-title="Poland",PL: NICKELODEON SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/749422.ts
+#EXTINF:-1 tvg-id="Polsat 2" tvg-name="PL: POLSAT 2 FHD" tvg-logo="http://foviptv.link:8080/poland-logo/polsat2_international.png" group-title="Poland",PL: POLSAT 2 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/749442.ts
+#EXTINF:-1 tvg-id="TVN" tvg-name="PL: TVN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/TVN_HD_Logo_2012.PNG" group-title="Poland",PL: TVN FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/749535.ts
+#EXTINF:-1 tvg-id="TVP Historia" tvg-name="PL: TVP HISTORIA SD" tvg-logo="http://foviptv.link:8080/poland-logo/tvp_historia.png" group-title="Poland",PL: TVP HISTORIA SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/749572.ts
+#EXTINF:-1 tvg-id="TVP Rozrywka" tvg-name="PL: TVP ROZRYWKA SD" tvg-logo="http://foviptv.link:8080/poland-logo/tvp_rozrywka_pl.png" group-title="Poland",PL: TVP ROZRYWKA SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/749577.ts
+#EXTINF:-1 tvg-id="Ale Kino+" tvg-name="PL: ALE KINO+ FHD" tvg-logo="http://foviptv.link:8080/poland-logo/canalplus_pl_ale_kino.png" group-title="Poland",PL: ALE KINO+ FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/762282.ts
+#EXTINF:-1 tvg-id="Polsat Games" tvg-name="PL: POLSAT GAMES FHD" tvg-logo="http://foviptv.link:8080/poland-logo/polsat-games-pl.png" group-title="Poland",PL: POLSAT GAMES FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/762316.ts
+#EXTINF:-1 tvg-id="NOWA TV" tvg-name="PL: NOWA TV FHD" tvg-logo="http://foviptv.link:8080/poland-logo/nowa_tv_pl.png" group-title="Poland",PL: NOWA TV FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/769289.ts
+#EXTINF:-1 tvg-id="hgtv.pl" tvg-name="PL: HGTV FHD" tvg-logo="https://imgx.fubo.tv/station_logos/hgtv_c.png" group-title="Poland",PL: HGTV FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/798063.ts
+#EXTINF:-1 tvg-id="tvnturbo.pl" tvg-name="PL: TVN TURBO FHD" tvg-logo="http://www.vod-logo.net/photos/827236e930d884a48b65488f2523b4c3.jpg" group-title="Poland",PL: TVN TURBO FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/802278.ts
+#EXTINF:-1 tvg-id="Canal+ 1" tvg-name="PL: CANAL+ 1 FHD" tvg-logo="http://foviptv.link:8080/poland-logo/canalplus_pl.png" group-title="Poland",PL: CANAL+ 1 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/803040.ts
+#EXTINF:-1 tvg-id="bbcbrit.pl" tvg-name="PL: BBC BRIT FHD" tvg-logo="https://lo1.in/sw/bbcbt.png" group-title="Poland",PL: BBC BRIT FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/812418.ts
+#EXTINF:-1 tvg-id="Canal+ Film" tvg-name="PL: CANAL+ FILM FHD" tvg-logo="https://lo1.in/pol/cpf.png" group-title="Poland",PL: CANAL+ FILM FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/872843.ts
+#EXTINF:-1 tvg-id="polsatcafe.pl" tvg-name="PL: POLSAT CAFE FHD" tvg-logo="http://foviptv.link:8080/poland-logo/polsat_cafe.png" group-title="Poland",PL: POLSAT CAFE FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/893452.ts
+#EXTINF:-1 tvg-id="AXN Black" tvg-name="PL: AXN BLACK SD" tvg-logo="http://foviptv.link:8080/poland-logo/axn_black_pl.png" group-title="Poland",PL: AXN BLACK SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/894390.ts
+#EXTINF:-1 tvg-id="Polsat Seriale" tvg-name="PL: POLSAT SERIALE FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrzuv4saLkFogVo2qnU9NSTaeR5ifm7UCQDA&s" group-title="Poland",PL: POLSAT SERIALE FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/895387.ts
+#EXTINF:-1 tvg-id="Canal+ Now" tvg-name="PL: CANAL+ NOW FHD" tvg-logo="https://lo1.in/pol/cpn.png" group-title="Poland",PL: CANAL+ NOW FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/897012.ts
+#EXTINF:-1 tvg-id="POLSAT NEWS 2" tvg-name="PL: POLSAT NEWS 2 FHD" tvg-logo="http://foviptv.link:8080/poland-logo/polsat_news_2.png" group-title="Poland",PL: POLSAT NEWS 2 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/899547.ts
+#EXTINF:-1 tvg-id="Discovery Historia" tvg-name="PL: DISCOVERY CHANNEL HISTORIA SD" tvg-logo="http://foviptv.link:8080/poland-logo/discovery_historia.png" group-title="Poland",PL: DISCOVERY CHANNEL HISTORIA SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/918034.ts
+#EXTINF:-1 tvg-id="Canal+ Sport 3" tvg-name="PL: CANAL+ SPORT 3 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2gV2Ia-nLnM2SwzILRx6qPOkEEG227i30Lg&s" group-title="Poland",PL: CANAL+ SPORT 3 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/920508.ts
+#EXTINF:-1 tvg-id="TVP 2" tvg-name="PL: TVP 2 FHD" tvg-logo="http://www.vod-logo.net/photos/c511f0c4278128946852192fd0b84d1e.jpg" group-title="Poland",PL: TVP 2 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/920513.ts
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="PL: DISNEY JUNIOR SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRysG_635UFxT0YTM2OCsxYlInJeJQG1uFSUQ&s" group-title="Poland",PL: DISNEY JUNIOR SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/925068.ts
+#EXTINF:-1 tvg-id="Polsat News" tvg-name="PL: POLSAT NEWS FHD" tvg-logo="http://foviptv.link:8080/poland-logo/polsat_news.png" group-title="Poland",PL: POLSAT NEWS FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/925084.ts
+#EXTINF:-1 tvg-id="TVS.pl" tvg-name="PL: TVS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/1280px-Flag_of_Poland.svg.png" group-title="Poland",PL: TVS SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/947157.ts
+#EXTINF:-1 tvg-id="AXN White" tvg-name="PL: AXN WHITE SD" tvg-logo="http://www.vod-logo.net/photos/3ddb2283290fbe5c797a446923dd890e.jpg" group-title="Poland",PL: AXN WHITE SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/947744.ts
+#EXTINF:-1 tvg-id="Filmbox Arthouse" tvg-name="PL: FILMBOX ARTHOUSE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Filmbox_arthouse_pl.png" group-title="Poland",PL: FILMBOX ARTHOUSE SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/949292.ts
+#EXTINF:-1 tvg-id="Stopklatka TV" tvg-name="PL: STOPKLATKA SD" tvg-logo="http://foviptv.link:8080/poland-logo/stopklatka_tv_pl.png" group-title="Poland",PL: STOPKLATKA SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/949331.ts
+#EXTINF:-1 tvg-id="ZOOM TV" tvg-name="PL: ZOOM TV SD" tvg-logo="https://static.wixstatic.com/media/763924_84ea5004804e422da8a9605d7932187d~mv2.png/v1/fill/w_560,h_286,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo_modificat.png" group-title="Poland",PL: ZOOM TV SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/949356.ts
+#EXTINF:-1 tvg-id="Polsat Sport Premium 5" tvg-name="PL: POLSAT SPORT PREMIUM 5 FHD" tvg-logo="https://i.ibb.co/mJtg1vD/polsat-sport-logo.png" group-title="Poland",PL: POLSAT SPORT PREMIUM 5 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/954699.ts
+#EXTINF:-1 tvg-id="TVP 3" tvg-name="PL: TVP 3 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHMyzVo4S4CAtTX29-KIyFHPu-Dc-bQmiZVg&s" group-title="Poland",PL: TVP 3 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/963891.ts
+#EXTINF:-1 tvg-id="Stars TV" tvg-name="PL: STARS TV FHD" tvg-logo="http://foviptv.link:8080/poland-logo/stars_tv_pl.png" group-title="Poland",PL: STARS TV FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/966748.ts
+#EXTINF:-1 tvg-id="TV 4" tvg-name="PL: TV 4 FHD" tvg-logo="http://astrill2.today:80/images/HjwEu7iTOqkLhxl1ITLIBaP-GUa7pZSgoKB0TQF0AYskrym9lzccX7P1P5giuWYC.png" group-title="Poland",PL: TV 4 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/998986.ts
+#EXTINF:-1 tvg-id="FightBox" tvg-name="PL: FIGHT BOX FHD" tvg-logo="https://lo1.in/pol/FIGHT BOX.png" group-title="Poland",PL: FIGHT BOX FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1001520.ts
+#EXTINF:-1 tvg-id="TVN 7" tvg-name="PL: TVN 7 FHD" tvg-logo="http://foviptv.link:8080/poland-logo/tvn_7_pl.png" group-title="Poland",PL: TVN 7 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1023439.ts
+#EXTINF:-1 tvg-id="TVN Style" tvg-name="PL: TVN STYLE HD" tvg-logo="http://foviptv.link:8080/poland-logo/tvn_pl_style.png" group-title="Poland",PL: TVN STYLE HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1057705.ts
+#EXTINF:-1 tvg-id="Canal+ 1" tvg-name="PL: CANAL+1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Canal%2B_1_PL.png" group-title="Poland",PL: CANAL+1 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1076740.ts
+#EXTINF:-1 tvg-id="Polsat Play" tvg-name="PL: POLSAT PLAY FHD" tvg-logo="http://foviptv.link:8080/poland-logo/polsat_play.png" group-title="Poland",PL: POLSAT PLAY FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1078832.ts
+#EXTINF:-1 tvg-id="Polsat Sport" tvg-name="PL: POLSAT SPORT FHD" tvg-logo="http://smartntv.pro/logokanali/poljska/polsaspor.png" group-title="Poland",PL: POLSAT SPORT FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1080969.ts
+#EXTINF:-1 tvg-id="Canal+ Sport 5" tvg-name="PL: CANAL+ SPORT 5 FHD" tvg-logo="http://foviptv.link:8080/poland-logo/canalplus_pl_n_sport.png" group-title="Poland",PL: CANAL+ SPORT 5 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1088793.ts
+#EXTINF:-1 tvg-id="ROMANCE TV" tvg-name="PL: ROMANCE TV FHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNS92DdJVA2YTuF-QqevyDHQ0EW5gVZv1aQowV9b9P_Z3-IevHEYkwRr9p-zqmfJxenE_qXZVxm6BWDeJN-dKM68ktgMZ6nV9HhOMaqVSwWVpIx8Kk3TLi7rwHuytoYKQrwn16uolq61uMjbwp6IpSKBHBPoye5E2NnhXqvTl5MAFlDEBiakIf4I_3/s540/romance-tv-logoroku.png" group-title="Poland",PL: ROMANCE TV FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1099132.ts
+#EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="PL: ELEVEN SPORTS 4 FHD" tvg-logo="https://lo1.in/pol/evl4.png" group-title="Poland",PL: ELEVEN SPORTS 4 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1109936.ts
+#EXTINF:-1 tvg-id="Filmbox Extra HD" tvg-name="PL: FILMBOX EXTRA FHD" tvg-logo="http://www.vod-logo.net/photos/c17b69de6ee9693a60ac9ba028e32d1a.jpg" group-title="Poland",PL: FILMBOX EXTRA FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1122553.ts
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="PL: EUROSPORT 2 FHD" tvg-logo="http://www.vod-logo.net/photos/d6cc45c9805d11d4396d3cff6a3bd110.jpg" group-title="Poland",PL: EUROSPORT 2 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1124419.ts
+#EXTINF:-1 tvg-id="Polonia 1" tvg-name="PL: POLONIA 1 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4e/Polonia_1_logo_2006.png" group-title="Poland",PL: POLONIA 1 SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1131351.ts
+#EXTINF:-1 tvg-id="Canal+ Domo" tvg-name="PL: DOMO+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Domo_plus.svg/1280px-Domo_plus.svg.png" group-title="Poland",PL: DOMO+ FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1139562.ts
+#EXTINF:-1 tvg-id="Polsat Music" tvg-name="PL: POLSAT MUSIC FHD" tvg-logo="http://foviptv.link:8080/poland-logo/polsat_music_hd.png" group-title="Poland",PL: POLSAT MUSIC FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1148950.ts
+#EXTINF:-1 tvg-id="Sundance TV" tvg-name="PL: SUNDANCE TV FHD" tvg-logo="https://imgx.fubo.tv/station_logos/sundance_c.png" group-title="Poland",PL: SUNDANCE TV FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1148960.ts
+#EXTINF:-1 tvg-id="TTV" tvg-name="PL: TTV FHD" tvg-logo="http://foviptv.link:8080/poland-logo/ttv_pl.png" group-title="Poland",PL: TTV FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1148961.ts
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="PL: NICK JUNIOR SD" tvg-logo="https://lo1.in/pol/nkjnr.png" group-title="Poland",PL: NICK JUNIOR SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1151208.ts
+#EXTINF:-1 tvg-id="POLSAT Viasat Explore" tvg-name="PL: POLSAT VIASAT EXPLORE FHD" tvg-logo="http://foviptv.link:8080/poland-logo/viasat_explore_pl.png" group-title="Poland",PL: POLSAT VIASAT EXPLORE FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1153475.ts
+#EXTINF:-1 tvg-id="HBO 3" tvg-name="PL: HBO 3 FHD" tvg-logo="http://smartntv.pro/logokanali/film/hbo33.png" group-title="Poland",PL: HBO 3 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1156139.ts
+#EXTINF:-1 tvg-id="DTX" tvg-name="PL: DTX FHD" tvg-logo="http://foviptv.link:8080/poland-logo/discovery_turbo_us_xtra.png" group-title="Poland",PL: DTX FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1158583.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: DISCOVERY CHANNEL LIFE FHD" tvg-logo="https://imgx.fubo.tv/station_logos/discovery-life_c.png" group-title="Poland",PL: DISCOVERY CHANNEL LIFE FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1162698.ts
+#EXTINF:-1 tvg-id="Polsat Viasat Nature" tvg-name="PL: POLSAT VIASAT NATURE FHD" tvg-logo="http://foviptv.link:8080/poland-logo/viasat_nature_pl.png" group-title="Poland",PL: POLSAT VIASAT NATURE FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1162709.ts
+#EXTINF:-1 tvg-id="Polsat Film" tvg-name="PL: POLSAT FILM FHD" tvg-logo="http://foviptv.link:8080/poland-logo/polsat_film.png" group-title="Poland",PL: POLSAT FILM FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1173309.ts
+#EXTINF:-1 tvg-id="National Geographic Wild" tvg-name="PL: NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="http://foviptv.link:8080/poland-logo/nat_geo_wild_us.png" group-title="Poland",PL: NATIONAL GEOGRAPHIC WILD FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1180360.ts
+#EXTINF:-1 tvg-id="Canal+ Dokument" tvg-name="PL: CANAL+ DOKUMENT SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2QkFlmgZQGBeL1t0duvhPW72QyvyiHI03nQ&s" group-title="Poland",PL: CANAL+ DOKUMENT SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1186125.ts
+#EXTINF:-1 tvg-id="Nat Geo People" tvg-name="PL: NATIONAL GEOGRAPHIC PEOPLE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1920px-New_NatGeo_People_logo.svg.png" group-title="Poland",PL: NATIONAL GEOGRAPHIC PEOPLE HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1189336.ts
+#EXTINF:-1 tvg-id="E! Entertainment" tvg-name="PL: E! ENTERTAINMENT FHD" tvg-logo="http://foviptv.link:8080/poland-logo/e_global_us.png" group-title="Poland",PL: E! ENTERTAINMENT FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1190115.ts
+#EXTINF:-1 tvg-id="History 2" tvg-name="PL: HISTORY 2 FHD" tvg-logo="https://static.epg.best/uk/History2.uk.png" group-title="Poland",PL: HISTORY 2 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1190118.ts
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="PL: ANIMAL PLANET FHD" tvg-logo="http://foviptv.link:8080/poland-logo/animal-planet-us.png" group-title="Poland",PL: ANIMAL PLANET FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1193826.ts
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="PL: CINEMAX FHD" tvg-logo="https://img.listaiptvhd.live/images/X2WBLj0.png" group-title="Poland",PL: CINEMAX FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1193830.ts
+#EXTINF:-1 tvg-id="Polsat Viasat History" tvg-name="PL: POLSAT VIASAT HISTORY FHD" tvg-logo="http://foviptv.link:8080/poland-logo/viasat_history_pl.png" group-title="Poland",PL: POLSAT VIASAT HISTORY FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1201386.ts
+#EXTINF:-1 tvg-id="WATER PLANET" tvg-name="PL: WATER PLANET SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Water_Planet_logo_2012.png" group-title="Poland",PL: WATER PLANET SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1203953.ts
+#EXTINF:-1 tvg-id="WP" tvg-name="PL: WP SD" tvg-logo="https://images.seeklogo.com/logo-png/24/2/wp-logo-png_seeklogo-240981.png" group-title="Poland",PL: WP SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1206017.ts
+#EXTINF:-1 tvg-id="Polsat Sport Premium 1" tvg-name="PL: POLSAT SPORT PREMIUM 1 FHD" tvg-logo="https://images.seeklogo.com/logo-png/61/1/polsat-sport-premium-1-logo-png_seeklogo-612406.png" group-title="Poland",PL: POLSAT SPORT PREMIUM 1 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1211472.ts
+#EXTINF:-1 tvg-id="POWER TV" tvg-name="PL: POWER TV SD" tvg-logo="http://foviptv.link:8080/poland-logo/power_tv_pl.png" group-title="Poland",PL: POWER TV SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1219692.ts
+#EXTINF:-1 tvg-id="Polsat" tvg-name="PL: POLSAT FHD" tvg-logo="http://foviptv.link:8080/poland-logo/polsat.png" group-title="Poland",PL: POLSAT FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1224461.ts
+#EXTINF:-1 tvg-id="Biznes 24" tvg-name="PL: BIZNES 24 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Biznes_24_logo.jpg" group-title="Poland",PL: BIZNES 24 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1227347.ts
+#EXTINF:-1 tvg-id="history.pl" tvg-name="PL: HISTORY FHD" tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/History-Logo.png" group-title="Poland",PL: HISTORY FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1227395.ts
+#EXTINF:-1 tvg-id="Polsat Sport Premium 3" tvg-name="PL: POLSAT SPORT PREMIUM 3 FHD" tvg-logo="https://i.ibb.co/mJtg1vD/polsat-sport-logo.png" group-title="Poland",PL: POLSAT SPORT PREMIUM 3 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1227424.ts
+#EXTINF:-1 tvg-id="Polsat Sport Premium 4" tvg-name="PL: POLSAT SPORT PREMIUM 4 FHD" tvg-logo="https://i.ibb.co/mJtg1vD/polsat-sport-logo.png" group-title="Poland",PL: POLSAT SPORT PREMIUM 4 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1227425.ts
+#EXTINF:-1 tvg-id="Polsat Sport Premium 6" tvg-name="PL: POLSAT SPORT PREMIUM 6 FHD" tvg-logo="https://i.ibb.co/mJtg1vD/polsat-sport-logo.png" group-title="Poland",PL: POLSAT SPORT PREMIUM 6 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1227426.ts
+#EXTINF:-1 tvg-id="Polsat Rodzina" tvg-name="PL: POLSAT RODZINA FHD" tvg-logo="http://foviptv.link:8080/poland-logo/polsat-rodzina-pl.png" group-title="Poland",PL: POLSAT RODZINA FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1228861.ts
+#EXTINF:-1 tvg-id="HOME TV" tvg-name="PL: HOME TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Home_TV_logo_PNG.png" group-title="Poland",PL: HOME TV SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1230895.ts
+#EXTINF:-1 tvg-id="Eska Rock TV" tvg-name="PL: ESKA ROCK TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Eska_Rock_TV_%282017-.n.v.%29.webp" group-title="Poland",PL: ESKA ROCK TV FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1232768.ts
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-name="PL: NATIONAL GEOGRAPHIC FHD" tvg-logo="http://zenplay.club:80/images/c7b80593b3725b0fcca4f645f6430b7a.png" group-title="Poland",PL: NATIONAL GEOGRAPHIC FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1232771.ts
+#EXTINF:-1 tvg-id="FightBox" tvg-name="PL: POLSAT SPORT FIGHT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Polsat_Sport_Fight_HD_%E2%80%93_logo.jpg" group-title="Poland",PL: POLSAT SPORT FIGHT FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1232776.ts
+#EXTINF:-1 tvg-id="TV TRWAM" tvg-name="PL: TV TRWAM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TV_Trwam_logo.png" group-title="Poland",PL: TV TRWAM FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1232780.ts
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name="PL: NICKTOONS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT851cGF8qEgksV4qw8As9IAuuh8saxA9Sm-w&s" group-title="Poland",PL: NICKTOONS FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1234236.ts
+#EXTINF:-1 tvg-id="19140" tvg-name="PL: POLSAT SPORT 3 FHD" tvg-logo="https://lo1.in/pol/plpt.png" group-title="Poland",PL: POLSAT SPORT 3 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1234245.ts
+#EXTINF:-1 tvg-id="Vox Music TV" tvg-name="PL: VOX MUSIC HD" tvg-logo="http://foviptv.link:8080/poland-logo/vox_music_tv_pl.png" group-title="Poland",PL: VOX MUSIC HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1234255.ts
+#EXTINF:-1 tvg-id="StudioMed TV" tvg-name="PL: STUDIOMED TV SD" tvg-logo="https://lo1.in/pol/STUDIOMED.png" group-title="Poland",PL: STUDIOMED TV SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1235485.ts
+#EXTINF:-1 tvg-id="TV 4" tvg-name="PL: TV4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TV4_%28PL%29_logo_2023.svg/1280px-TV4_%28PL%29_logo_2023.svg.png" group-title="Poland",PL: TV4 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1235489.ts
+#EXTINF:-1 tvg-id="Polo TV" tvg-name="PL: POLO TV SD" tvg-logo="http://foviptv.link:8080/poland-logo/polo_tv_pl.png" group-title="Poland",PL: POLO TV SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1239865.ts
+#EXTINF:-1 tvg-id="Republika" tvg-name="PL: TV REPUBLIKA SD" tvg-logo="http://foviptv.link:8080/poland-logo/tv-republika-pl.png" group-title="Poland",PL: TV REPUBLIKA SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1239883.ts
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="PL: CARTOON NETWORK FHD" tvg-logo="https://lo1.in/pol/cna.png" group-title="Poland",PL: CARTOON NETWORK FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1242050.ts
+#EXTINF:-1 tvg-id="scifiuniversal.pl" tvg-name="PL: SCIFI UNIVERSAL FHD" tvg-logo="https://lo1.in/pol/scv.png" group-title="Poland",PL: SCIFI UNIVERSAL FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1242069.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: 4 FUN GOLD HITS SD" tvg-logo="" group-title="Poland",PL: 4 FUN GOLD HITS SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1243239.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ EXTRA 1 (MATCH TIME) FHD" tvg-logo="" group-title="Poland",PL: CANAL+ EXTRA 1 (MATCH TIME) FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1243247.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: DISCOVERY CHANNEL TURBO EXTRA FHD" tvg-logo="" group-title="Poland",PL: DISCOVERY CHANNEL TURBO EXTRA FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1243259.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: ESKA EXTRA SD" tvg-logo="" group-title="Poland",PL: ESKA EXTRA SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1243260.ts
+#EXTINF:-1 tvg-id="Extreme Sports Channel" tvg-name="PL: EXTREME FHD" tvg-logo="" group-title="Poland",PL: EXTREME FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1243261.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: GOLF CHANNEL POLSKA FHD" tvg-logo="" group-title="Poland",PL: GOLF CHANNEL POLSKA FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1243265.ts
+#EXTINF:-1 tvg-id="Motowizja.pl" tvg-name="PL: MOTOWIZJA FHD" tvg-logo="https://lo1.in/pol/mtrw.png" group-title="Poland",PL: MOTOWIZJA FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1243271.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: PLUS 2 FHD" tvg-logo="" group-title="Poland",PL: PLUS 2 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1243277.ts
+#EXTINF:-1 tvg-id="Polsat 1" tvg-name="PL: POLSAT 1 FHD" tvg-logo="" group-title="Poland",PL: POLSAT 1 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1243279.ts
+#EXTINF:-1 tvg-id="Polsat Sport 2" tvg-name="PL: POLSAT SPORT 2 HD" tvg-logo="https://lo1.in/pol/plpt.png" group-title="Poland",PL: POLSAT SPORT 2 HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1243282.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT PREMIUM 2 [LIVE DURING EVENTS ONLY] FHD" tvg-logo="" group-title="Poland",PL: POLSAT SPORT PREMIUM 2 [LIVE DURING EVENTS ONLY] FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1243284.ts
+#EXTINF:-1 tvg-id="VOD 205" tvg-name="PL: VOD 205 SD" tvg-logo="" group-title="Poland",PL: VOD 205 SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1243299.ts
+#EXTINF:-1 tvg-id="VOD 206" tvg-name="PL: VOD 206 SD" tvg-logo="" group-title="Poland",PL: VOD 206 SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1243300.ts
+#EXTINF:-1 tvg-id="VOD 207" tvg-name="PL: VOD 207 SD" tvg-logo="" group-title="Poland",PL: VOD 207 SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1243301.ts
+#EXTINF:-1 tvg-id="VOD 208" tvg-name="PL: VOD 208 SD" tvg-logo="" group-title="Poland",PL: VOD 208 SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1243302.ts
+#EXTINF:-1 tvg-id="Canal+ Premium" tvg-name="PL: CANAL+ PREMIUM FHD" tvg-logo="http://foviptv.link:8080/poland-logo/canalplus_pl.png" group-title="Poland",PL: CANAL+ PREMIUM FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1244854.ts
+#EXTINF:-1 tvg-id="Canal+ 360" tvg-name="PL: CANAL+ 360 FHD" tvg-logo="" group-title="Poland",PL: CANAL+ 360 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1246092.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ KUCHINA FHD" tvg-logo="" group-title="Poland",PL: CANAL+ KUCHINA FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1246098.ts
+#EXTINF:-1 tvg-id="Canal+ Sport 2" tvg-name="PL: CANAL+ SPORT 2 HD" tvg-logo="http://foviptv.link:8080/poland-logo/canalplus_pl_sport2.png" group-title="Poland",PL: CANAL+ SPORT 2 HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1246099.ts
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="PL: DISCOVERY CHANNEL SCIENCE FHD" tvg-logo="https://imgx.fubo.tv/station_logos/science_c.png" group-title="Poland",PL: DISCOVERY CHANNEL SCIENCE FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1247430.ts
+#EXTINF:-1 tvg-id="11126" tvg-name="PL: AXN FHD" tvg-logo="https://img.listaiptvhd.live/images/BpuNHIA.png" group-title="Poland",PL: AXN FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1248378.ts
+#EXTINF:-1 tvg-id="Polsat JimJam" tvg-name="PL: POLSAT JIM JAM SD" tvg-logo="https://lo1.in/pol/POLSAT JIM JAM.png" group-title="Poland",PL: POLSAT JIM JAM SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1248408.ts
+#EXTINF:-1 tvg-id="tlc.pl" tvg-name="PL: TLC FHD" tvg-logo="https://imgx.fubo.tv/station_logos/tlc_c.png" group-title="Poland",PL: TLC FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1249492.ts
+#EXTINF:-1 tvg-id="Da Vinci Learning" tvg-name="PL: DAVINCI LEARNING SD" tvg-logo="" group-title="Poland",PL: DAVINCI LEARNING SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1250336.ts
+#EXTINF:-1 tvg-id="Epic Drama" tvg-name="PL: EPIC DRAMA FHD" tvg-logo="https://p.teve.win/epicdramahd.png" group-title="Poland",PL: EPIC DRAMA FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1250339.ts
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="PL: PARAMOUNT NETWORK FHD" tvg-logo="https://img.listaiptvhd.live/images/vhHovWq.png" group-title="Poland",PL: PARAMOUNT NETWORK FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1250342.ts
+#EXTINF:-1 tvg-id="Sportklub" tvg-name="PL: SPORT KLUB FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLAUqIfdESQ7u8T6UCstt2uNj40OI9W3MQpQ&s" group-title="Poland",PL: SPORT KLUB FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1250345.ts
+#EXTINF:-1 tvg-id="TVP ABC" tvg-name="PL: TVP ABC SD" tvg-logo="http://www.vod-logo.net/photos/d7577637c1f71f931b602401afb1e63b.jpg" group-title="Poland",PL: TVP ABC SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1250349.ts
+#EXTINF:-1 tvg-id="4FUN KIDS" tvg-name="PL: 4 FUN KIDS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/4FUN_KIDS.png" group-title="Poland",PL: 4 FUN KIDS SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254714.ts
+#EXTINF:-1 tvg-id="4FUN TV" tvg-name="PL: 4 FUN TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/4fun.tv_Logo_%282017%29.svg/1280px-4fun.tv_Logo_%282017%29.svg.png" group-title="Poland",PL: 4 FUN TV SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254715.ts
+#EXTINF:-1 tvg-id="BBC First" tvg-name="PL: BBC FIRST FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/BBC_First.png" group-title="Poland",PL: BBC FIRST FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254723.ts
+#EXTINF:-1 tvg-id="boomerang.pl" tvg-name="PL: BOOMERANG SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Poland",PL: BOOMERANG SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254725.ts
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="PL: COMEDY CENTRAL FHD" tvg-logo="https://imgx.fubo.tv/station_logos/comedy_central_c.png" group-title="Poland",PL: COMEDY CENTRAL FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254740.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: CRIME+ INVESTIGATION FHD" tvg-logo="" group-title="Poland",PL: CRIME+ INVESTIGATION FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254745.ts
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="PL: DISNEY CHANNEL FHD" tvg-logo="http://46.105.88.70:57050/images/DISNEY-CHANNEL.png" group-title="Poland",PL: DISNEY CHANNEL FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254751.ts
+#EXTINF:-1 tvg-id="E! Entertainment" tvg-name="PL: E! FHD" tvg-logo="https://imgx.fubo.tv/station_logos/e_c.png" group-title="Poland",PL: E! FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254752.ts
+#EXTINF:-1 tvg-id="FilmBox Action" tvg-name="PL: FILMBOX ACTION SD" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/filmboxaction-logo.png" group-title="Poland",PL: FILMBOX ACTION SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254758.ts
+#EXTINF:-1 tvg-id="Filmbox Premium HD" tvg-name="PL: FILMBOX PREMIUM FHD" tvg-logo="http://www.vod-logo.net/photos/631b1516fc04cee8a5cfebd443b76dc0.jpg" group-title="Poland",PL: FILMBOX PREMIUM FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254759.ts
+#EXTINF:-1 tvg-id="Fokus TV" tvg-name="PL: FOKUS TV FHD" tvg-logo="http://www.vod-logo.net/photos/1cd3375da46abb3ceeb06e3ce7d800c6.jpg" group-title="Poland",PL: FOKUS TV FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254760.ts
+#EXTINF:-1 tvg-id="Food Network" tvg-name="PL: FOOD NETWORK FHD" tvg-logo="http://foviptv.link:8080/poland-logo/food_network_us.png" group-title="Poland",PL: FOOD NETWORK FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254761.ts
+#EXTINF:-1 tvg-id="Golf Channel" tvg-name="PL: GOLF CHANNEL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png" group-title="Poland",PL: GOLF CHANNEL FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254764.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: H2 FHD" tvg-logo="http://www.vod-logo.net/photos/68ef5ef4bf905d4b21a0f43977542648.JPG" group-title="Poland",PL: H2 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254765.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="PL: HBO FHD" tvg-logo="http://zenplay.club:80/images/c59db57e4398473aef4c2c3c7bdafb86.png" group-title="Poland",PL: HBO FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254767.ts
+#EXTINF:-1 tvg-id="Kino Polska" tvg-name="PL: KINO POLSKA FHD" tvg-logo="http://foviptv.link:8080/poland-logo/kino_polska.png" group-title="Poland",PL: KINO POLSKA FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254769.ts
+#EXTINF:-1 tvg-id="Minimini+" tvg-name="PL: MINIMINI+ FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOLc7jiUCYOC7KVjRnJvm_bi-hA9sjMvj-8w&s" group-title="Poland",PL: MINIMINI+ FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254774.ts
+#EXTINF:-1 tvg-id="planete.pl" tvg-name="PL: PLANETE+ FHD" tvg-logo="http://foviptv.link:8080/poland-logo/canalplus_pl_planete.png" group-title="Poland",PL: PLANETE+ FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254785.ts
+#EXTINF:-1 tvg-id="Polsat Doku" tvg-name="PL: POLSAT DOKU FHD" tvg-logo="http://foviptv.link:8080/poland-logo/polsat_doku.png" group-title="Poland",PL: POLSAT DOKU FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254787.ts
+#EXTINF:-1 tvg-id="Polsat Sport News" tvg-name="PL: POLSAT SPORT NEWS FHD" tvg-logo="http://www.vod-logo.net/photos/85ae92e853ca61d4657fbcf069181e6e.jpg" group-title="Poland",PL: POLSAT SPORT NEWS FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254789.ts
+#EXTINF:-1 tvg-id="TNT Sports 1" tvg-name="PL: TNT FHD" tvg-logo="https://imgx.fubo.tv/station_logos/tnt_c.png" group-title="Poland",PL: TNT FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254804.ts
+#EXTINF:-1 tvg-id="travelchannel.pl" tvg-name="PL: TRAVEL CHANNEL FHD" tvg-logo="http://zenplay.club:80/images/6fd99590a581ec46f9401d1c7c717561.png" group-title="Poland",PL: TRAVEL CHANNEL FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254806.ts
+#EXTINF:-1 tvg-id="TV Puls" tvg-name="PL: TV PULS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/TV_Puls_logo.jpg" group-title="Poland",PL: TV PULS FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254808.ts
+#EXTINF:-1 tvg-id="TVP Info" tvg-name="PL: TVP INFO FHD" tvg-logo="http://foviptv.link:8080/poland-logo/tvp_info.png" group-title="Poland",PL: TVP INFO FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254814.ts
+#EXTINF:-1 tvg-id="TVP Kultura" tvg-name="PL: TVP KULTURA FHD" tvg-logo="http://www.vod-logo.net/photos/830be87c5d048672975a56bad5f9922d.jpg" group-title="Poland",PL: TVP KULTURA FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254816.ts
+#EXTINF:-1 tvg-id="TVP Polonia" tvg-name="PL: TVP POLONIA FHD" tvg-logo="http://foviptv.link:8080/poland-logo/tvp_polonia.png" group-title="Poland",PL: TVP POLONIA FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254819.ts
+#EXTINF:-1 tvg-id="TVP Sport" tvg-name="PL: TVP SPORT FHD" tvg-logo="http://foviptv.link:8080/poland-logo/tvp_sport.png" group-title="Poland",PL: TVP SPORT FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254821.ts
+#EXTINF:-1 tvg-id="TVP HD" tvg-name="PL: TVP FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Polsat_Comedy_Central_Extra_logo.jpg" group-title="Poland",PL: TVP FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1254823.ts
+#EXTINF:-1 tvg-id="MTV 90S" tvg-name="PL: MTV ROCKS SD" tvg-logo="" group-title="Poland",PL: MTV ROCKS SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1256181.ts
+#EXTINF:-1 tvg-id="Nuta Gold" tvg-name="PL: NUTA HD" tvg-logo="" group-title="Poland",PL: NUTA HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1256184.ts
+#EXTINF:-1 tvg-id="Canal+ Domo" tvg-name="PL: CANAL+ DOMO FHD" tvg-logo="http://foviptv.link:8080/poland-logo/canalplus_pl_domo.png" group-title="Poland",PL: CANAL+ DOMO FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1257655.ts
+#EXTINF:-1 tvg-id="Canal+ Seriale" tvg-name="PL: CANAL+ SERIALE FHD" tvg-logo="http://foviptv.link:8080/poland-logo/canalplus_pl_seriale.png" group-title="Poland",PL: CANAL+ SERIALE FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1257656.ts
+#EXTINF:-1 tvg-id="FX Comedy" tvg-name="PL: FOX COMEDY HD" tvg-logo="http://foviptv.link:8080/poland-logo/fox_comedy_pl.png" group-title="Poland",PL: FOX COMEDY HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1257664.ts
+#EXTINF:-1 tvg-id="AXN Spin" tvg-name="PL: AXN SPIN FHD" tvg-logo="http://foviptv.link:8080/poland-logo/axn-spin-us.png" group-title="Poland",PL: AXN SPIN FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1259466.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="PL: FOX FHD" tvg-logo="https://imgx.fubo.tv/station_logos/fox_new_c.png" group-title="Poland",PL: FOX FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1259483.ts
+#EXTINF:-1 tvg-id="Novelas+" tvg-name="PL: NOVELAS + FHD" tvg-logo="" group-title="Poland",PL: NOVELAS + FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1259498.ts
+#EXTINF:-1 tvg-id="TV 6" tvg-name="PL: TV 6 SD" tvg-logo="" group-title="Poland",PL: TV 6 SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1259513.ts
+#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="PL: BBC LIFESTYLE FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2LzQWfqT5GuzoaoQv_vsUePZan7LwZiSgSQ&s" group-title="Poland",PL: BBC LIFESTYLE FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1259953.ts
+#EXTINF:-1 tvg-id="MTV Polska" tvg-name="PL: MTV POLSKA FHD" tvg-logo="http://foviptv.link:8080/poland-logo/mtv_us.png" group-title="Poland",PL: MTV POLSKA FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1259962.ts
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="PL: BABY TV HD" tvg-logo="https://lo1.in/pol/bbt.png" group-title="Poland",PL: BABY TV HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1260842.ts
+#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="PL: CARTOONITO SD" tvg-logo="https://lo1.in/pol/CARTOONITO FHD.png" group-title="Poland",PL: CARTOONITO SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1262593.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: COMEDY CENTRAL FAMILY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Comedy_Central_Family_2011_Logo.png" group-title="Poland",PL: COMEDY CENTRAL FAMILY FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1262596.ts
+#EXTINF:-1 tvg-id="lifetime.pl" tvg-name="PL: LIFETIME FHD" tvg-logo="https://lo1.in/pol/lft.png" group-title="Poland",PL: LIFETIME FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1263652.ts
+#EXTINF:-1 tvg-id="13ulica.pl" tvg-name="PL: 13 ULICA HD" tvg-logo="https://lo1.in/pol/13ul.png" group-title="Poland",PL: 13 ULICA HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1265077.ts
+#EXTINF:-1 tvg-id="canalplussport4.pl" tvg-name="PL: CANAL+ SPORT 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Canal%2B_Sport_4_PL.png" group-title="Poland",PL: CANAL+ SPORT 4 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1265078.ts
+#EXTINF:-1 tvg-id="cinemax2.pl" tvg-name="PL: CINEMAX 2 FHD" tvg-logo="https://s.digi.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDIxJTJGMDcl/MkYyOSUyRjEzNjI0MTdfMTM2MjQxN19D/SU5FTUFYLTItSEQucG5nJmhhc2g9ODYw/YTQ4N2E0NWYyOGU1ZGQ0Mzc5NTc5NDgwMWM2NzQ=.png" group-title="Poland",PL: CINEMAX 2 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1265079.ts
+#EXTINF:-1 tvg-id="Eleven Sports 2" tvg-name="PL: ELEVEN SPORTS 2 FHD" tvg-logo="http://foviptv.link:8080/poland-logo/eleven-sports-2-portugal-uk-pt.png" group-title="Poland",PL: ELEVEN SPORTS 2 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1265080.ts
+#EXTINF:-1 tvg-id="Eska TV Extra" tvg-name="PL: ESKA TV EXTRA FHD" tvg-logo="https://tse2.mm.bing.net/th/id/OIP.r8_tEExatOPw2uGQnZq39AAAAA?h=150" group-title="Poland",PL: ESKA TV EXTRA FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1265081.ts
+#EXTINF:-1 tvg-id="Eska TV" tvg-name="PL: ESKA TV SD" tvg-logo="http://foviptv.link:8080/poland-logo/eska_tv_pl.png" group-title="Poland",PL: ESKA TV SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1265082.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: 4 FUN GOLD SD" tvg-logo="https://asiagrandiptv.us/logo/4fungoldhits.png" group-title="Poland",PL: 4 FUN GOLD SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1265496.ts
+#EXTINF:-1 tvg-id="Active Family" tvg-name="PL: ACTIVE FAMILY FHD" tvg-logo="" group-title="Poland",PL: ACTIVE FAMILY FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1265499.ts
+#EXTINF:-1 tvg-id="AMC" tvg-name="PL: AMC FHD" tvg-logo="" group-title="Poland",PL: AMC FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1265500.ts
+#EXTINF:-1 tvg-id="CBS Europa" tvg-name="PL: CBS EUROPA SD" tvg-logo="" group-title="Poland",PL: CBS EUROPA SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1265505.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: COMEDY CENTRAL POLSKA FHD" tvg-logo="" group-title="Poland",PL: COMEDY CENTRAL POLSKA FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1265506.ts
+#EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="PL: ELEVEN SPORTS 1 FHD" tvg-logo="http://foviptv.link:8080/poland-logo/eleven-sports-1-portugal-uk-pt.png" group-title="Poland",PL: ELEVEN SPORTS 1 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1265511.ts
+#EXTINF:-1 tvg-id="Eleven Sports 3" tvg-name="PL: ELEVEN SPORTS 3 FHD" tvg-logo="http://foviptv.link:8080/poland-logo/eleven-sports-3-portugal-uk-pt.png" group-title="Poland",PL: ELEVEN SPORTS 3 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1265513.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="PL: HBO 2 FHD" tvg-logo="https://img.listaiptvhd.live/images/pap79AV.png" group-title="Poland",PL: HBO 2 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1265519.ts
+#EXTINF:-1 tvg-id="METRO" tvg-name="PL: METRO FHD" tvg-logo="" group-title="Poland",PL: METRO FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1265522.ts
+#EXTINF:-1 tvg-id="ZOOM TV" tvg-name="PL: MTV FHD" tvg-logo="" group-title="Poland",PL: MTV FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1265527.ts
+#EXTINF:-1 tvg-id="NOVELA TV" tvg-name="PL: NOVELA TV SD" tvg-logo="" group-title="Poland",PL: NOVELA TV SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1265531.ts
+#EXTINF:-1 tvg-id="Polsat Comedy Central Extra" tvg-name="PL: POLSAT COMEDY CENTRAL EXTRA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Polsat_Comedy_Central_Extra_logo.jpg" group-title="Poland",PL: POLSAT COMEDY CENTRAL EXTRA FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1265533.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT SPORT PREMIERA FHD" tvg-logo="" group-title="Poland",PL: POLSAT SPORT PREMIERA FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1265537.ts
+#EXTINF:-1 tvg-id="Super Polsat" tvg-name="PL: SUPER POLSAT FHD" tvg-logo="" group-title="Poland",PL: SUPER POLSAT FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1265542.ts
+#EXTINF:-1 tvg-id="DuckTV Plus" tvg-name="PL: TV PLUS FHD" tvg-logo="" group-title="Poland",PL: TV PLUS FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1265546.ts
+#EXTINF:-1 tvg-id="TVN Fabuła" tvg-name="PL: TVN FABULA FHD" tvg-logo="" group-title="Poland",PL: TVN FABULA FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1265549.ts
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="PL: BBC EARTH FHD" tvg-logo="https://lo1.in/pol/bbce.png" group-title="Poland",PL: BBC EARTH FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1267350.ts
+#EXTINF:-1 tvg-id="Canal+ Sport 5" tvg-name="PL: CANAL+ SPORT FHD" tvg-logo="http://foviptv.link:8080/poland-logo/canalplus_pl_sport2.png" group-title="Poland",PL: CANAL+ SPORT FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1267351.ts
+#EXTINF:-1 tvg-id="FIGHTKLUB" tvg-name="PL: FIGHT KLUB FHD" tvg-logo="" group-title="Poland",PL: FIGHT KLUB FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1267353.ts
+#EXTINF:-1 tvg-id="4FUN DANCE" tvg-name="PL: 4FUN DANCE SD" tvg-logo="" group-title="Poland",PL: 4FUN DANCE SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1268437.ts
+#EXTINF:-1 tvg-id="4FUN KIDS" tvg-name="PL: 4FUN KIDS SD" tvg-logo="" group-title="Poland",PL: 4FUN KIDS SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1268438.ts
+#EXTINF:-1 tvg-id="11126" tvg-name="PL: AXN HD" tvg-logo="https://img.listaiptvhd.live/images/BpuNHIA.png" group-title="Poland",PL: AXN HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1268440.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ DISCOVERY CHANNEL SD" tvg-logo="https://lo1.in/pol/CANAL+ DISCOVERY.png" group-title="Poland",PL: CANAL+ DISCOVERY CHANNEL SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1268441.ts
+#EXTINF:-1 tvg-id="Da Vinci Learning" tvg-name="PL: DA VINCI SD" tvg-logo="" group-title="Poland",PL: DA VINCI SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1268446.ts
+#EXTINF:-1 tvg-id="Eska Rock TV" tvg-name="PL: ESKA ROCK FHD" tvg-logo="" group-title="Poland",PL: ESKA ROCK FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1268450.ts
+#EXTINF:-1 tvg-id="Extreme Sports Channel" tvg-name="PL: EXTREME SPORTS HD" tvg-logo="http://foviptv.link:8080/poland-logo/extreme_sports_nl.png" group-title="Poland",PL: EXTREME SPORTS HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1268451.ts
+#EXTINF:-1 tvg-id="240" tvg-name="PL: FAST&FUN FHD" tvg-logo="" group-title="Poland",PL: FAST&FUN FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1268452.ts
+#EXTINF:-1 tvg-id="Gametoon" tvg-name="PL: GAMETOON FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b6/Gametoon_HD_logo.png" group-title="Poland",PL: GAMETOON FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1268453.ts
+#EXTINF:-1 tvg-id="HBO 3" tvg-name="PL: HBO3 FHD" tvg-logo="" group-title="Poland",PL: HBO3 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1268454.ts
+#EXTINF:-1 tvg-id="ID" tvg-name="PL: INVESTIGATION DISCOVERY CHANNEL FHD" tvg-logo="" group-title="Poland",PL: INVESTIGATION DISCOVERY CHANNEL FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1268456.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: MTV DANCE SD" tvg-logo="" group-title="Poland",PL: MTV DANCE SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1268459.ts
+#EXTINF:-1 tvg-id="Polsat Reality" tvg-name="PL: POLSAT REALITY FHD" tvg-logo="" group-title="Poland",PL: POLSAT REALITY FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1268466.ts
+#EXTINF:-1 tvg-id="Puls 2" tvg-name="PL: PULS 2 FHD" tvg-logo="" group-title="Poland",PL: PULS 2 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1268469.ts
+#EXTINF:-1 tvg-id="Skyshowtime 1" tvg-name="PL: SKY SKYSHOWTIME 1 FHD" tvg-logo="" group-title="Poland",PL: SKY SKYSHOWTIME 1 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1268471.ts
+#EXTINF:-1 tvg-id="TeenNick" tvg-name="PL: TEEN NICK FHD" tvg-logo="" group-title="Poland",PL: TEEN NICK FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1268473.ts
+#EXTINF:-1 tvg-id="Teletoon" tvg-name="PL: TELETOON + FHD" tvg-logo="" group-title="Poland",PL: TELETOON + FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1268474.ts
+#EXTINF:-1 tvg-id="TVN Momenty Prawdy Online" tvg-name="PL: TVN MOMENTY FHD" tvg-logo="" group-title="Poland",PL: TVN MOMENTY FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1268476.ts
+#EXTINF:-1 tvg-id="cbsreality.pl" tvg-name="PL: CBS REALITY FHD" tvg-logo="" group-title="Poland",PL: CBS REALITY FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1269422.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: DISCOVERY CHANNEL INVESTIGATION FHD" tvg-logo="http://picon.nxtbox.tv/satlogo/usa/investigation_discovery_us.png" group-title="Poland",PL: DISCOVERY CHANNEL INVESTIGATION FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1269423.ts
+#EXTINF:-1 tvg-id="WATER PLANET" tvg-name="PL: PLANET WATER SD" tvg-logo="" group-title="Poland",PL: PLANET WATER SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1269427.ts
+#EXTINF:-1 tvg-id="Red Carpet TV International" tvg-name="PL: RED CARPET HD" tvg-logo="" group-title="Poland",PL: RED CARPET HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1269428.ts
+#EXTINF:-1 tvg-id="wPolsce.pl" tvg-name="PL: WPOLSCE SD" tvg-logo="" group-title="Poland",PL: WPOLSCE SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1269431.ts
+#EXTINF:-1 tvg-id="CI Polsat" tvg-name="PL: CI POLSAT FHD" tvg-logo="" group-title="Poland",PL: CI POLSAT FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1270896.ts
+#EXTINF:-1 tvg-id="teletoon.pl" tvg-name="PL: TELETOON+ FHD" tvg-logo="" group-title="Poland",PL: TELETOON+ FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1270902.ts
+#EXTINF:-1 tvg-id="4FUN TV" tvg-name="PL: 4FUN.TV SD" tvg-logo="" group-title="Poland",PL: 4FUN.TV SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1271991.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: AFRO MUSIC [VDF SCRITP] SD" tvg-logo="http://xplatinmedia.com:8080/images/b5596ec719a7e1febe42bca7f13c3e6a.png" group-title="Poland",PL: AFRO MUSIC [VDF SCRITP] SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1271994.ts
+#EXTINF:-1 tvg-id="Alfa TVP" tvg-name="PL: ALFA TVP HD" tvg-logo="https://images.seeklogo.com/logo-png/46/1/alfa-tvp-logo-png_seeklogo-465766.png" group-title="Poland",PL: ALFA TVP HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1271996.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: AMC POLSKA FHD" tvg-logo="https://www.amcpolska.eu/wp-content/uploads/2024/02/LOGOTYP_AMC_POLSKA_v2_RGB_WEB.jpg" group-title="Poland",PL: AMC POLSKA FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1271999.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: ANTENA TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Antenna_TV_2022_logo.png" group-title="Poland",PL: ANTENA TV SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272000.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: BBC CBEEBIES PL SD" tvg-logo="http://foviptv.link:8080/poland-logo/bbc_cbeebies_uk.png" group-title="Poland",PL: BBC CBEEBIES PL SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272004.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: BTV HD [VDF SCRITP] FHD" tvg-logo="http://xplatinmedia.com:8080/images/7c7d1c94989343ee450b46f63131356a.png" group-title="Poland",PL: BTV HD [VDF SCRITP] FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272007.ts
+#EXTINF:-1 tvg-id="Canal+ Kuchnia" tvg-name="PL: CANAL+ KUCHNIA SD" tvg-logo="http://foviptv.link:8080/poland-logo/canalplus_pl_kuchnia.png" group-title="Poland",PL: CANAL+ KUCHNIA SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272011.ts
+#EXTINF:-1 tvg-id="Polsat Comedy Central Extra" tvg-name="PL: COMEDY CENTRAL EXTRA FHD" tvg-logo="http://foviptv.link:8080/poland-logo/comedy-central-deutschland-us-de.png" group-title="Poland",PL: COMEDY CENTRAL EXTRA FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272019.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: CRIME & INVESTIGATION FHD" tvg-logo="http://zenplay.club:80/images/b60eb51bd61ee8705d068bef61b5823b.png" group-title="Poland",PL: CRIME & INVESTIGATION FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272020.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: CRIME+ INVESTIGATION POLSAT FHD" tvg-logo="" group-title="Poland",PL: CRIME+ INVESTIGATION POLSAT FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272021.ts
+#EXTINF:-1 tvg-id="Da Vinci Learning" tvg-name="PL: DA VINCI LEARNING SD" tvg-logo="http://foviptv.link:8080/poland-logo/da-vinci-de.png" group-title="Poland",PL: DA VINCI LEARNING SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272023.ts
+#EXTINF:-1 tvg-id="Disco Polo Music" tvg-name="PL: DISCO POLO MUSIC FHD" tvg-logo="http://foviptv.link:8080/poland-logo/disco_polo_music_pl.png" group-title="Poland",PL: DISCO POLO MUSIC FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272025.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: DISCOVERY CHANNEL CRIME & INVESTIGATION POLSKA FHD" tvg-logo="" group-title="Poland",PL: DISCOVERY CHANNEL CRIME & INVESTIGATION POLSKA FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272026.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: DISCOVERY CHANNEL HGTV FHD" tvg-logo="https://logos-marques.com/wp-content/uploads/2025/01/HGTV-Emblem.png" group-title="Poland",PL: DISCOVERY CHANNEL HGTV FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272027.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: DISCOVERY CHANNEL POLSKA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkJeMhH9DxG4xUFgNn2z-gEHFH2NcmPb2wJw&s" group-title="Poland",PL: DISCOVERY CHANNEL POLSKA FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272028.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: DISCOVERY CHANNEL TURBO XTRA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Discovery_Turbo_Xtra.png" group-title="Poland",PL: DISCOVERY CHANNEL TURBO XTRA FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272029.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN 1 [VDF SCRITP] FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1280px-Flag_of_Portugal.svg.png" group-title="Poland",PL: ELEVEN 1 [VDF SCRITP] FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272034.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN 3 [VDF SCRITP] HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1280px-Flag_of_Portugal.svg.png" group-title="Poland",PL: ELEVEN 3 [VDF SCRITP] HEVC
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272035.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN 4 [VDF SCRITP] FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1280px-Flag_of_Portugal.svg.png" group-title="Poland",PL: ELEVEN 4 [VDF SCRITP] FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272036.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: ELEVEN 5 [VDF SCRITP] FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1280px-Flag_of_Portugal.svg.png" group-title="Poland",PL: ELEVEN 5 [VDF SCRITP] FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272037.ts
+#EXTINF:-1 tvg-id="Extreme Sports Channel" tvg-name="PL: EXTREME SPORTS FHD" tvg-logo="http://foviptv.link:8080/poland-logo/extreme_sports_nl.png" group-title="Poland",PL: EXTREME SPORTS FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272046.ts
+#EXTINF:-1 tvg-id="FightBox" tvg-name="PL: FIGHTBOX FHD" tvg-logo="http://zenplay.club:80/images/0b95569c06be46bd977a071036617b55.png" group-title="Poland",PL: FIGHTBOX FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272047.ts
+#EXTINF:-1 tvg-id="Fightklub.pl" tvg-name="PL: FIGHTKLUB FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Fight_Club_logo1.png" group-title="Poland",PL: FIGHTKLUB FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272048.ts
+#EXTINF:-1 tvg-id="GOLD TV" tvg-name="PL: GOLD TV SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSjSJx2Wah0-hfWbBn4_C79K5I0600lcD8zw&s" group-title="Poland",PL: GOLD TV SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272057.ts
+#EXTINF:-1 tvg-id="ViDoc TV" tvg-name="PL: ID FHD" tvg-logo="https://cdn.imgbin.com/9/17/0/imgbin-investigation-discovery-television-show-television-channel-logo-id-channel-logo-9Uy6xjAjQS7N5Kr65jV4Sz79j.jpg" group-title="Poland",PL: ID FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272059.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: KUCHNIA+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Kuchnia%2B_logo_2011.png" group-title="Poland",PL: KUCHNIA+ FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272063.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: KURIAKOS TV HD [VDF] HD" tvg-logo="http://vod-logo.net/photos/ab8979ccab5305628d9fb49eca801366.png" group-title="Poland",PL: KURIAKOS TV HD [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272064.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: MCM POP [VDF SCRITP] SD" tvg-logo="http://xplatinmedia.com:8080/images/a4ae5045020e0266e4eb5ccf35de220c.png" group-title="Poland",PL: MCM POP [VDF SCRITP] SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272067.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: METRO FHD TV FHD" tvg-logo="http://xplatinmedia.com:8080/images/3b421d4f968e716ba0018a4bcd6baa89.png" group-title="Poland",PL: METRO FHD TV FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272071.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: METRO TV FHD" tvg-logo="" group-title="Poland",PL: METRO TV FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272072.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: MTV 00S [VDF] SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_00s_remaster.png/250px-MTV_00s_remaster.png" group-title="Poland",PL: MTV 00S [VDF] SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272076.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: MTV 90'S HD" tvg-logo="http://zenplay.club:80/images/1e224f8041cbf70ddfc4cf95c2bcef89.png" group-title="Poland",PL: MTV 90'S HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272077.ts
+#EXTINF:-1 tvg-id="mtv90s.pl" tvg-name="PL: MTV 90S SD" tvg-logo="http://zenplay.club:80/images/1e224f8041cbf70ddfc4cf95c2bcef89.png" group-title="Poland",PL: MTV 90S SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272078.ts
+#EXTINF:-1 tvg-id="MTV Live HD" tvg-name="PL: MTV MUSIC 24 FHD" tvg-logo="" group-title="Poland",PL: MTV MUSIC 24 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272081.ts
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-name="PL: NATIONAL GEO FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWnMkH9iO1MosKoMIMVQ-m6QN7q7Xj-VfKtA&s" group-title="Poland",PL: NATIONAL GEO FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272084.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: NHK WORLD [VDF] HD" tvg-logo="http://xplatinmedia.com:8080/images/24d34eb7c39ddea06246bc9592fe1e08.png" group-title="Poland",PL: NHK WORLD [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272089.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: NICK JUNIOR. SD" tvg-logo="http://51.91.105.31:57050/images/NickJr.png" group-title="Poland",PL: NICK JUNIOR. SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272090.ts
+#EXTINF:-1 tvg-id="Nuta Gold" tvg-name="PL: NUTA GOLD SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSn7lWqQ5BMYsf80lhSiKerC0kp1V0KWJQCg&s" group-title="Poland",PL: NUTA GOLD SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272093.ts
+#EXTINF:-1 tvg-id="Nuta TV" tvg-name="PL: NUTA TV SD" tvg-logo="http://foviptv.link:8080/poland-logo/nuta_tv_pl_hd.png" group-title="Poland",PL: NUTA TV SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272094.ts
+#EXTINF:-1 tvg-id="Polsat Film 2" tvg-name="PL: POLSAT FILM 2 FHD" tvg-logo="" group-title="Poland",PL: POLSAT FILM 2 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272098.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: POLSAT JIMAJM SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf3vTMCGvaKgn7u3YSc5n-b7aaDvM3jNsWbQ&s" group-title="Poland",PL: POLSAT JIMAJM SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272100.ts
+#EXTINF:-1 tvg-id="Polsat Sport Premium 2" tvg-name="PL: POLSAT SPORT PREMIUM 2 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiHdgEcqbUEX2UFZolOvE1GnPNrs9IYr9j6Q&s" group-title="Poland",PL: POLSAT SPORT PREMIUM 2 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272101.ts
+#EXTINF:-1 tvg-id="Red Carpet TV International" tvg-name="PL: RED CARPET TV HD" tvg-logo="http://foviptv.link:8080/poland-logo/red-carpet-pl.png" group-title="Poland",PL: RED CARPET TV HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272105.ts
+#EXTINF:-1 tvg-id="SCI FI" tvg-name="PL: SCIFI FHD" tvg-logo="http://repo.ottshow.net/pikoni/film/scifi.gif" group-title="Poland",PL: SCIFI FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272115.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: SPORT TV 1 [VDF SCRITP] FHD" tvg-logo="http://xplatinmedia.com:8080/images/e0f25aea9e95eb82e2cdf7843587b103.png" group-title="Poland",PL: SPORT TV 1 [VDF SCRITP] FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272121.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: SPORT TV 2 [VDF SCRITP] FHD" tvg-logo="http://xplatinmedia.com:8080/images/ab2cf083d6fa69fe349aabf245402f74.png" group-title="Poland",PL: SPORT TV 2 [VDF SCRITP] FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272122.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: SPORT TV 3 [VDF SCRITP] FHD" tvg-logo="http://xplatinmedia.com:8080/images/30e30adbca61414fc596acd1c02b43c7.png" group-title="Poland",PL: SPORT TV 3 [VDF SCRITP] FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272123.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: SPORT TV 4 [VDF SCRITP] SD" tvg-logo="http://vod-logo.net/photos/271f5410b895bc09d25919af45f236fd.png" group-title="Poland",PL: SPORT TV 4 [VDF SCRITP] SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272124.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: SPORT TV 5 [VDF SCRITP] FHD" tvg-logo="http://xplatinmedia.com:8080/images/34fedc0466562b71d029d3e099e7e068.png" group-title="Poland",PL: SPORT TV 5 [VDF SCRITP] FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272125.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: SPORT TV NBA [VDF SCRITP] HD" tvg-logo="http://xplatinmedia.com:8080/images/e14b1adaad4d2b5db86354bdaf24228b.png" group-title="Poland",PL: SPORT TV NBA [VDF SCRITP] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272129.ts
+#EXTINF:-1 tvg-id="Super Polsat" tvg-name="PL: SUPERPOLSAT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/SuperPolsat2020.jpg" group-title="Poland",PL: SUPERPOLSAT FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272130.ts
+#EXTINF:-1 tvg-id="Superstacja" tvg-name="PL: SUPERSTACJA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Superstacja_logo.jpg" group-title="Poland",PL: SUPERSTACJA SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272131.ts
+#EXTINF:-1 tvg-id="Tele 5" tvg-name="PL: TELE5 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/TELE_5_Logo.png" group-title="Poland",PL: TELE5 SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272132.ts
+#EXTINF:-1 tvg-id="TOP KIDS" tvg-name="PL: TOP KIDS FHD" tvg-logo="https://img.favpng.com/25/7/11/top-kids-poland-television-channel-high-definition-television-png-favpng-Biyn7tyFst54uUKPbZjLfmtAg.jpg" group-title="Poland",PL: TOP KIDS FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272133.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: TRACE URBAN [VDF] HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Trace_Urban_logo_2010.svg" group-title="Poland",PL: TRACE URBAN [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272134.ts
+#EXTINF:-1 tvg-id="tvpuls2.pl" tvg-name="PL: TV PULS 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/P22015_tv.jpg" group-title="Poland",PL: TV PULS 2 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272136.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: TVC NEWS [VDF] SD" tvg-logo="http://xplatinmedia.com:8080/images/cef6b7e0d72a4b64e86be929be383dc7.png" group-title="Poland",PL: TVC NEWS [VDF] SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272138.ts
+#EXTINF:-1 tvg-id="TVC" tvg-name="PL: TVC SD" tvg-logo="" group-title="Poland",PL: TVC SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272139.ts
+#EXTINF:-1 tvg-id="TVN Fabuła" tvg-name="PL: TVN FABU FHD" tvg-logo="http://foviptv.link:8080/poland-logo/tvn_fabula_pl.png" group-title="Poland",PL: TVN FABU FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272140.ts
+#EXTINF:-1 tvg-id="tvnfabula.pl" tvg-name="PL: TVN FABUŁA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/TVN_Fabu%C5%82a.svg/1280px-TVN_Fabu%C5%82a.svg.png" group-title="Poland",PL: TVN FABUŁA FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272141.ts
+#EXTINF:-1 tvg-id="TVP Dokument" tvg-name="PL: TVP DOKUMENT FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1X_3BqB2IZG4a6nUclA-ycZzCc8wMfXxS6A&s" group-title="Poland",PL: TVP DOKUMENT FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272142.ts
+#EXTINF:-1 tvg-id="TVP Kobieta" tvg-name="PL: TVP KOBIETA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/TVP_Kobieta.png" group-title="Poland",PL: TVP KOBIETA HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272143.ts
+#EXTINF:-1 tvg-id="TVP Nauka" tvg-name="PL: TVP NAUKA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TVP_Nauka_%282022%29.svg/960px-TVP_Nauka_%282022%29.svg.png" group-title="Poland",PL: TVP NAUKA FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272144.ts
+#EXTINF:-1 tvg-id="TVP World" tvg-name="PL: TVP WORLD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Tvp-world.svg/1280px-Tvp-world.svg.png" group-title="Poland",PL: TVP WORLD FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272145.ts
+#EXTINF:-1 tvg-id="TV TRWAM" tvg-name="PL: TVTRWAM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TV_Trwam_logo.png" group-title="Poland",PL: TVTRWAM FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272146.ts
+#EXTINF:-1 tvg-id="vh1.pl" tvg-name="PL: VH1 FHD" tvg-logo="http://playfacil.net:80/images/dad8ee483cc9a336cde702e9aa0b0954.png" group-title="Poland",PL: VH1 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272147.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: VOD 4 SD" tvg-logo="https://4.bp.blogspot.com/-0vQ0O4ePCro/XHV05phuEcI/AAAAAAAAAYs/JYVAXuakleQVcXStfXS7r9tGmL38PaJbACK4BGAYYCw/s640/VOD.png" group-title="Poland",PL: VOD 4 SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272149.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: WARNER TV BROTHERS TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Warner_Bros._Television_2023_%28Alt%2C_with_wordmark%29.svg" group-title="Poland",PL: WARNER TV BROTHERS TV FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272150.ts
+#EXTINF:-1 tvg-id="wPolsce.pl.pl" tvg-name="PL: WPOLSCE.PL SD" tvg-logo="http://foviptv.link:8080/poland-logo/w-polsce-pl.png" group-title="Poland",PL: WPOLSCE.PL SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272151.ts
+#EXTINF:-1 tvg-id="Wydarzenia 24" tvg-name="PL: WYDARZENIA 24 FHD" tvg-logo="http://foviptv.link:8080/poland-logo/super_stacja_pl.png" group-title="Poland",PL: WYDARZENIA 24 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1272152.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ EXTRA 2 (MATCH TIME) FHD" tvg-logo="" group-title="Poland",PL: CANAL+ EXTRA 2 (MATCH TIME) FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1274924.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL+ EXTRA 3 (MATCH TIME) HD" tvg-logo="" group-title="Poland",PL: CANAL+ EXTRA 3 (MATCH TIME) HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1274925.ts
+#EXTINF:-1 tvg-id="MTV Live HD.pl" tvg-name="PL: MTV LIVE FHD" tvg-logo="https://p.teve.win/logos/mtv.png" group-title="Poland",PL: MTV LIVE FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1274932.ts
+#EXTINF:-1 tvg-id="MTV Polska" tvg-name="PL: MTV POLSKA SD" tvg-logo="http://foviptv.link:8080/poland-logo/mtv_us.png" group-title="Poland",PL: MTV POLSKA SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1274933.ts
+#EXTINF:-1 tvg-id="NICKMUSIC" tvg-name="PL: NICK MUSIC SD" tvg-logo="http://147.135.16.159:72/nick-music-us.png" group-title="Poland",PL: NICK MUSIC SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1274934.ts
+#EXTINF:-1 tvg-id="Polsat X" tvg-name="PL: POLSAT X FHD" tvg-logo="" group-title="Poland",PL: POLSAT X FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1274937.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: A BOLA TV HD [VDF] HD HD" tvg-logo="http://xplatinmedia.com:8080/images/3ff43b930190f37dc1b766f5fb5b70de.png" group-title="Poland",PL: A BOLA TV HD [VDF] HD HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276033.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: A BOLA TV HD [VDF] HD" tvg-logo="http://xplatinmedia.com:8080/images/3ff43b930190f37dc1b766f5fb5b70de.png" group-title="Poland",PL: A BOLA TV HD [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276034.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: AL JAZEERA ENGLISH [VDF] SD" tvg-logo="http://xplatinmedia.com:8080/images/f4390514d1f6e5d724811bcd0bf9a02e.png" group-title="Poland",PL: AL JAZEERA ENGLISH [VDF] SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276035.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: AMC BREAK [VDF] HD" tvg-logo="http://xplatinmedia.com:8080/images/7236f4340e6cff07699a40d364656f32.png" group-title="Poland",PL: AMC BREAK [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276036.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: AMC CRIME [VDF] HD" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CYM.png" group-title="Poland",PL: AMC CRIME [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276037.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: AR TV [VDF] SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/ARTV_%282002%29.png" group-title="Poland",PL: AR TV [VDF] SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276038.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: BABY TV [VDF SCRITP] HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="Poland",PL: BABY TV [VDF SCRITP] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276039.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: BBC WORLD NEWS [VDF] SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_world_news_uk.png" group-title="Poland",PL: BBC WORLD NEWS [VDF] SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276040.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: BLOOMBERG [VDF] SD" tvg-logo="https://static.epg.best/us/BloombergTV.us.png" group-title="Poland",PL: BLOOMBERG [VDF] SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276041.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: C MUSIC [VDF] SD" tvg-logo="" group-title="Poland",PL: C MUSIC [VDF] SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276042.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL 180 [VDF] HD" tvg-logo="" group-title="Poland",PL: CANAL 180 [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276043.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANAL Q [VDF] HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/afdd1c52784875.Y3JvcCw2MzcsNDk4LDg2LDcw.jpg" group-title="Poland",PL: CANAL Q [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276044.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: CANçãO NOVA [VDF] SD" tvg-logo="https://img.listaiptvhd.live/images/nTn016Z.png" group-title="Poland",PL: CANçãO NOVA [VDF] SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276045.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: CARTOON NETWORK [VDF] HD" tvg-logo="" group-title="Poland",PL: CARTOON NETWORK [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276046.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: CARTOONITO [VDF] HD" tvg-logo="https://img.listaiptvhd.live/images/IJCighF.png" group-title="Poland",PL: CARTOONITO [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276047.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: CNBC [VDF] SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1280px-Flag_of_Portugal.svg.png" group-title="Poland",PL: CNBC [VDF] SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276048.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: CNN PORTUGAL [VDF] HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/2048px-CNN_Portugal.svg.png" group-title="Poland",PL: CNN PORTUGAL [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276049.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: CUBAVISION [VDF] SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkhpUHDv0LGppPY6uy_hUF4VSwrfw3h5-s4w&s" group-title="Poland",PL: CUBAVISION [VDF] SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276050.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: DEUTCHE WELLE [VDF] SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/1280px-Deutsche_Welle_Logo.svg.png" group-title="Poland",PL: DEUTCHE WELLE [VDF] SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276051.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: DISNEY CHANNEL [VDF] SD" tvg-logo="http://www.vod-logo.net/photos/08021eb92e8f317c9735a40ebeb728e0.jpg" group-title="Poland",PL: DISNEY CHANNEL [VDF] SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276052.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: DIZI [VDF] HD" tvg-logo="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/32/64025f9d1e7f3.png" group-title="Poland",PL: DIZI [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276053.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: E HD [VDF] HD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1280px-Flag_of_Portugal.svg.png" group-title="Poland",PL: E HD [VDF] HD HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276054.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: E HD [VDF] HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1280px-Flag_of_Portugal.svg.png" group-title="Poland",PL: E HD [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276055.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: EURONEWS ENG [VDF] SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="Poland",PL: EURONEWS ENG [VDF] SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276056.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: EUROSPORT 2 HD [VDF] HD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Eurosport_2_HD_Logo_%282011-2015%29.svg/500px-Eurosport_2_HD_Logo_%282011-2015%29.svg.png" group-title="Poland",PL: EUROSPORT 2 HD [VDF] HD HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276057.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: EUROSPORT 2 HD [VDF] HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Eurosport_2_HD_Logo_%282011-2015%29.svg/500px-Eurosport_2_HD_Logo_%282011-2015%29.svg.png" group-title="Poland",PL: EUROSPORT 2 HD [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276058.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: EUROSPORT HD [VDF] HD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/69/Eurosport_HD_logo_2009.svg/3840px-Eurosport_HD_logo_2009.svg.png" group-title="Poland",PL: EUROSPORT HD [VDF] HD HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276059.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: EUROSPORT HD [VDF] HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/69/Eurosport_HD_logo_2009.svg/3840px-Eurosport_HD_logo_2009.svg.png" group-title="Poland",PL: EUROSPORT HD [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276060.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: FOOD NETWORK [VDF] HD" tvg-logo="http://www.vod-logo.net/photos/037d9cff19cf69d6cbd8ab85f45c5825.jpg" group-title="Poland",PL: FOOD NETWORK [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276061.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: FRANCE 24 ENG [VDF] SD" tvg-logo="https://media.info/l/o/1/1417.1443114332.png" group-title="Poland",PL: FRANCE 24 ENG [VDF] SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276062.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: FRANCE 24 FR [VDF] SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuRHfypZvhpJ9RAGl60tedaWV8GD-8O0nOaA&s" group-title="Poland",PL: FRANCE 24 FR [VDF] SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276063.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: FREEDOM [VDF] SD" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2025/07/freedom-box-internet.png" group-title="Poland",PL: FREEDOM [VDF] SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276064.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: FUNBOX [VDF] HEVC" tvg-logo="https://www.hdnumerique.com/medias/articles/500/funbox-ultra-hd-4k.jpg" group-title="Poland",PL: FUNBOX [VDF] HEVC
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276065.ts
+#EXTINF:-1 tvg-id="Gametoon" tvg-name="PL: GAMETOON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b6/Gametoon_HD_logo.png" group-title="Poland",PL: GAMETOON HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276066.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: GINX [VDF] HD" tvg-logo="http://primestreamstv.com/logos/ginx.png" group-title="Poland",PL: GINX [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276067.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: INSIGHT TV HD [VDF] HD HD" tvg-logo="https://www.vhv.rs/dpng/d/501-5012671_insight-tv-logo-png-transparent-png.png" group-title="Poland",PL: INSIGHT TV HD [VDF] HD HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276069.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: INSIGHT TV HD [VDF] HD" tvg-logo="https://www.vhv.rs/dpng/d/501-5012671_insight-tv-logo-png-transparent-png.png" group-title="Poland",PL: INSIGHT TV HD [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276070.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: LOCALVISAO HD [VDF] HD" tvg-logo="https://tvepg.eu/img/portugal/logo/localvisao-tv.webp" group-title="Poland",PL: LOCALVISAO HD [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276072.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: MCM TOP HD [VDF] HD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/MCM_Top.png" group-title="Poland",PL: MCM TOP HD [VDF] HD HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276073.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: MCM TOP HD [VDF] HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/MCM_Top.png" group-title="Poland",PL: MCM TOP HD [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276074.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: MEZZO HD [VDF SCRITP] SD" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2009/12/14123624/mezzoHD.jpg" group-title="Poland",PL: MEZZO HD [VDF SCRITP] SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276075.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: MTV HD [VDF] HD HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv_us.png" group-title="Poland",PL: MTV HD [VDF] HD HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276076.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: MTV HD [VDF] HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv_us.png" group-title="Poland",PL: MTV HD [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276077.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: MY ZEN TV HD [VDF SCRITP] HD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/My_Zen_Tv_LOGO_Couleur_vide.jpg/960px-My_Zen_Tv_LOGO_Couleur_vide.jpg" group-title="Poland",PL: MY ZEN TV HD [VDF SCRITP] HD HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276078.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: MY ZEN TV HD [VDF SCRITP] HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/My_Zen_Tv_LOGO_Couleur_vide.jpg/960px-My_Zen_Tv_LOGO_Couleur_vide.jpg" group-title="Poland",PL: MY ZEN TV HD [VDF SCRITP] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276079.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: NATIONAL GEOGRAPHIC HD [VDF] HD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Poland",PL: NATIONAL GEOGRAPHIC HD [VDF] HD HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276080.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: NATIONAL GEOGRAPHIC HD [VDF] HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Poland",PL: NATIONAL GEOGRAPHIC HD [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276081.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: NAUTICAL CHANNEL HD [VDF SCRITP] HD HD" tvg-logo="http://xplatinmedia.com:8080/images/f7492cf44b6008e074589e4e350e5ad9.png" group-title="Poland",PL: NAUTICAL CHANNEL HD [VDF SCRITP] HD HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276082.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: NAUTICAL CHANNEL HD [VDF SCRITP] HD" tvg-logo="http://xplatinmedia.com:8080/images/f7492cf44b6008e074589e4e350e5ad9.png" group-title="Poland",PL: NAUTICAL CHANNEL HD [VDF SCRITP] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276083.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: NICKELODEON [VDF] SD" tvg-logo="https://ophion.feralhosting.com/epg/logos/UK/Nickelodeon.uk.png" group-title="Poland",PL: NICKELODEON [VDF] SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276084.ts
+#EXTINF:-1 tvg-id="nsport.pl" tvg-name="PL: NSPORT+ FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NSport%2B.svg/960px-NSport%2B.svg.png" group-title="Poland",PL: NSPORT+ FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276085.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: PANDA KIDS HD [VDF SCRITP] HD HD" tvg-logo="http://vod-logo.net/photos/ec85aebcc3cd0ba00ddf288890e94311.png" group-title="Poland",PL: PANDA KIDS HD [VDF SCRITP] HD HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276086.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: PANDA KIDS HD [VDF SCRITP] HD" tvg-logo="http://vod-logo.net/photos/ec85aebcc3cd0ba00ddf288890e94311.png" group-title="Poland",PL: PANDA KIDS HD [VDF SCRITP] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276087.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: PANDA [VDF] HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_panda_pt.png" group-title="Poland",PL: PANDA [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276088.ts
+#EXTINF:-1 tvg-id="Polsat Sport Extra" tvg-name="PL: POLSAT SPORT EXTRA FHD" tvg-logo="http://foviptv.link:8080/poland-logo/polsat_sport_extra.png" group-title="Poland",PL: POLSAT SPORT EXTRA FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276090.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: PRO TV INTERNATIONAL [VDF] SD" tvg-logo="" group-title="Poland",PL: PRO TV INTERNATIONAL [VDF] SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276091.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: RAI UNO [VDF] SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ce/Rai_Uno_logo.png" group-title="Poland",PL: RAI UNO [VDF] SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276092.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: RECORD NEWS [VDF] SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/500px-Record_News_logo_2022.svg.png" group-title="Poland",PL: RECORD NEWS [VDF] SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276093.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: RTL [VDF SCRITP] SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/RTL_logo.svg/1280px-RTL_logo.svg.png" group-title="Poland",PL: RTL [VDF SCRITP] SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276094.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: RTP 1 HD [VDF] HD HD" tvg-logo="http://xplatinmedia.com:8080/images/e95c4f70736652523c270596031398cf.png" group-title="Poland",PL: RTP 1 HD [VDF] HD HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276095.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: RTP 1 HD [VDF] HD" tvg-logo="http://xplatinmedia.com:8080/images/e95c4f70736652523c270596031398cf.png" group-title="Poland",PL: RTP 1 HD [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276096.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: RTP 3 [VDF] HD" tvg-logo="http://xplatinmedia.com:8080/images/1024c7806b84408f20421c30cb75f957.png" group-title="Poland",PL: RTP 3 [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276097.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: RTP ACORES [VDF] HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtp-acores-pt.png" group-title="Poland",PL: RTP ACORES [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276098.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: RTP AFRICA [VDF] SD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtp-africa-pt.png" group-title="Poland",PL: RTP AFRICA [VDF] SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276099.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: RTP MADEIRA [VDF] HD" tvg-logo="https://raw.githubusercontent.com/tnds82/picons/master/RTP%20MADEIRA.png" group-title="Poland",PL: RTP MADEIRA [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276100.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: S+ HD [VDF] HD HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/splus-pt.svg" group-title="Poland",PL: S+ HD [VDF] HD HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276101.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: S+ HD [VDF] HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/splus-pt.svg" group-title="Poland",PL: S+ HD [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276102.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: SIC CARAS [VDF] HD" tvg-logo="http://xplatinmedia.com:8080/images/0d7832e0520db6c79690b1e0f3105805.png" group-title="Poland",PL: SIC CARAS [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276103.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: SIC HD [VDF] HD HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sic_pt.png" group-title="Poland",PL: SIC HD [VDF] HD HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276104.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: SIC HD [VDF] HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sic_pt.png" group-title="Poland",PL: SIC HD [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276105.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: SIC K [VDF] HD" tvg-logo="http://vod-logo.net/photos/68aad252cdb1aee3e5e5a69752e0526c.png" group-title="Poland",PL: SIC K [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276106.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: SPORT TV MAIS HD [VDF] HD HD" tvg-logo="http://xplatinmedia.com:8080/images/abd182fd2f9b35e720adb640ce185437.png" group-title="Poland",PL: SPORT TV MAIS HD [VDF] HD HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276107.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: SPORT TV MAIS HD [VDF] HD" tvg-logo="http://xplatinmedia.com:8080/images/abd182fd2f9b35e720adb640ce185437.png" group-title="Poland",PL: SPORT TV MAIS HD [VDF] HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276108.ts
+#EXTINF:-1 tvg-id="TTV" tvg-name="PL: TTV SD" tvg-logo="http://foviptv.link:8080/poland-logo/ttv_pl.png" group-title="Poland",PL: TTV SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276109.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: TV GALICIA [VDF] SD" tvg-logo="http://xplatinmedia.com:8080/images/0885f8be5f8a27f7db7c084889cda856.png" group-title="Poland",PL: TV GALICIA [VDF] SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276110.ts
+#EXTINF:-1 tvg-id="TV 6" tvg-name="PL: TV6 FHD" tvg-logo="http://smartntv.pro/logokanali/scandinavia/tv666.png" group-title="Poland",PL: TV6 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276111.ts
+#EXTINF:-1 tvg-id="TVP Historia" tvg-name="PL: TVP HISTORIA FHD" tvg-logo="http://foviptv.link:8080/poland-logo/tvp_historia.png" group-title="Poland",PL: TVP HISTORIA FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276112.ts
+#EXTINF:-1 tvg-id="Vox Music TV" tvg-name="PL: VOX MUSIC FHD" tvg-logo="http://foviptv.link:8080/poland-logo/vox_music_tv_pl.png" group-title="Poland",PL: VOX MUSIC FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1276114.ts
+#EXTINF:-1 tvg-id="Canal+ Dokument" tvg-name="PL: CANAL+ DOKUMENT FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2QkFlmgZQGBeL1t0duvhPW72QyvyiHI03nQ&s" group-title="Poland",PL: CANAL+ DOKUMENT FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1277239.ts
+#EXTINF:-1 tvg-id="Canal+ Family" tvg-name="PL: CANAL+ FAMILY FHD" tvg-logo="" group-title="Poland",PL: CANAL+ FAMILY FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1277240.ts
+#EXTINF:-1 tvg-id="Canal+ Kuchnia" tvg-name="PL: CANAL+ KUCHNIA FHD" tvg-logo="" group-title="Poland",PL: CANAL+ KUCHNIA FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1277241.ts
+#EXTINF:-1 tvg-id="1766" tvg-name="PL: CANAL+ SPORT 3 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2gV2Ia-nLnM2SwzILRx6qPOkEEG227i30Lg&s" group-title="Poland",PL: CANAL+ SPORT 3 SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1277242.ts
+#EXTINF:-1 tvg-id="canalplussport4.pl" tvg-name="PL: CANAL+ SPORT 4 SD" tvg-logo="" group-title="Poland",PL: CANAL+ SPORT 4 SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1277243.ts
+#EXTINF:-1 tvg-id="CARTOONITO" tvg-name="PL: CARTOONITO FHD" tvg-logo="https://lo1.in/pol/CARTOONITO FHD.png" group-title="Poland",PL: CARTOONITO FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1277244.ts
+#EXTINF:-1 tvg-id="DOCUBOX" tvg-name="PL: DOCUBOX FHD" tvg-logo="" group-title="Poland",PL: DOCUBOX FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1277245.ts
+#EXTINF:-1 tvg-id="FX Comedy" tvg-name="PL: FOX COMEDY FHD" tvg-logo="" group-title="Poland",PL: FOX COMEDY FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1277246.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: MTV 00'S HD" tvg-logo="" group-title="Poland",PL: MTV 00'S HD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1277247.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: SPORT TV 6 [VDF SCRITP] FHD" tvg-logo="https://uploads-eu-west-1.insided.com/meo-pt/attachment/f3f8b257-7ff1-453e-9e97-6dfec9118d9f_thumb.png" group-title="Poland",PL: SPORT TV 6 [VDF SCRITP] FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1277248.ts
+#EXTINF:-1 tvg-id="Stopklatka TV" tvg-name="PL: STOPKLATKA FHD" tvg-logo="" group-title="Poland",PL: STOPKLATKA FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1277249.ts
+#EXTINF:-1 tvg-id="Tele 5" tvg-name="PL: TELE 5 SD" tvg-logo="" group-title="Poland",PL: TELE 5 SD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1277250.ts
+#EXTINF:-1 tvg-id="TV 6" tvg-name="PL: TV 6 FHD" tvg-logo="" group-title="Poland",PL: TV 6 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1277251.ts
+#EXTINF:-1 tvg-id="TVN Style" tvg-name="PL: TVN STYLE FHD" tvg-logo="" group-title="Poland",PL: TVN STYLE FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1277252.ts
+#EXTINF:-1 tvg-id="TVP Seriale" tvg-name="PL: TVP SERIALE FHD" tvg-logo="" group-title="Poland",PL: TVP SERIALE FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1277253.ts
+#EXTINF:-1 tvg-id="" tvg-name="PL: VIAPLAY XTRA 4 FHD" tvg-logo="" group-title="Poland",PL: VIAPLAY XTRA 4 FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1277254.ts
+#EXTINF:-1 tvg-id="1765" tvg-name="PL: WARNER TV FHD" tvg-logo="" group-title="Poland",PL: WARNER TV FHD
+http://y83pkdqd.g32sru.xyz:80/play/32vi227680/FPnDrxyN9KWj/1277255.ts
